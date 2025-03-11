@@ -15,7 +15,9 @@ DNA double-strand breaks (DSB) are critical genomic lesions. DSBs are repaired b
 ## Summary of the SensorID data analysis repository.
 
 The present Github repository is intended to serve as a tool for the public to access the computational analysis done to understand and generate the results published in the SPARK article. The information and R scripts contained in this repository will follow the same order as presented in the results section of the SPARK article, and it will include the original files as well as the code used to generate relevant results and analysis. Therefore, to understand the computational procedures contained in this repository, it is necessary to follow the results discussion of the main SPARK article. However, operations that were done in other software, such as Excel or Cytoscape, to manually curate or annotate the information contained in the manuscript are not contained in this repository.
+
 Note that if the user needs to consult or review the analyzed results, the networks, or the node-level metrics calculations explained in the SPARK manuscript, this information is summarized in the [SPARK website](https://sparkid.bgu.ac.il/). The SPARK project website was developed as a tool for easily navigating the interactomic results in a protein or functional group-based manner and retrieving networks and metrics depending on the interests of the user.
+
 Furthermore, the complete database containing all the obtained results and metrics for each protein-interactor in each one of the DSB-sensor interactomes is encompassed in the supplementary tables of the SPARK (SensorID) scientific article. Therefore, for a deeper query of the interactomic results, the authors recommend the public to refer to the original paper and use it as a guide for navigating the [SPARK website](https://sparkid.bgu.ac.il/) and the Github repository.
 
 ## Index of the data analysis scripts.
