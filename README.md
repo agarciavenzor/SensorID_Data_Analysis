@@ -1,6 +1,6 @@
 # SPARK: mapping the Sensor Proteome Alliance for Repair Kinetics during double-strand break (DSB) repair
 
-## Alfredo Garcia-Venzor1,2, Uri Grupel1,2, Shai-Kaluski-Kopach1,2, Miguel Lurgi3, and <ins>Debra Toiber2,1*</ins> 
+## Alfredo Garcia-Venzor<sup>1,2</sup>, Uri Grupel<sup>1,2</sup>, Shai-Kaluski-Kopach<sup>1,2</sup>, Miguel Lurgi<sup>3</sup>, and <ins>Debra Toiber<sup>2,1*</sup></ins> 
 
 1- Department of Life Sciences, Ben-Gurion University of the Negev, Beer Sheva, 84105, Israel. 
 2- The School of Brain Sciences and Cognition, Ben Gurion University of the Negev, Beer Sheva, 84105, Israel.
