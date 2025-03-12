@@ -1,0 +1,834 @@
+NAME,Uniprot,stringId,DNA_Repair,GO_CC,GO_BP,GO_MF,Annotation,An.color,An.number
+H2AX,P16104,9606.ENSP00000434024,DSB,site of double-strand break ,double-strand break repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+H2BC10,P62807,9606.ENSP00000321744,DSB,nucleosome ,chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+PPAN-P2RY11,A0A0B4J1V8,9606.ENSP00000377385,0,nucleolus ,rRNA processing ,rRNA binding ,RNA Metabolism,gold,8
+GTPBP10,A4D1E9,9606.ENSP00000222511,0,nucleolus,ribosome biogenesis,RNA binding,Ribosome Biosynthesis,lightgreen,7
+RGPD3,A6NKT7,9606.ENSP00000386588,0,nuclear pore,nucleocytoplasmic transport,GTPase activator activity,Nuclear Pore,deepskyblue3,4
+RAVER1,E9PAU2,9606.ENSP00000293677,0,RNA Binding,"mRNA splicing, via spliceosome ",mRNA binding ,RNA Metabolism,gold,8
+AGPS,O00116,9606.ENSP00000264167,0,nucleolus,lipid biosynthetic process,FAD binding,Ribosome Biosynthesis,lightgreen,7
+DDX39A,O00148,9606.ENSP00000242776,0,nucleus,mRNA splicing,RNA helicase activity,RNA Metabolism,gold,8
+MYO1C,O00159,9606.ENSP00000496954,0,B-WICH complex ,mRNA transport ,actin filament organization ,p53 Pathway,tomato,5
+SNAP23,O00161,9606.ENSP00000249647,0,nucleoplasm,exocytosis,SNAP receptor activity,Transcription Regulation,slateblue1,9
+MEN1,O00255,9606.ENSP00000337088,0,MLL1 complex ,histone H3-K4 methylation ,chromatin binding ,DNA Repair,firebrick1,3
+PGRMC1,O00264,9606.ENSP00000217971,0,Nucleolus,memory,beta-amyloid binding,Ribosome Biosynthesis,lightgreen,7
+CLIC1,O00299,9606.ENSP00000364935,0,nuclear envelope ,regulation of cell cycle ,chloride channel activity ,Cell Cycle regulation,coral1,1
+EIF3F,O00303,9606.ENSP00000431800,0, eukaryotic translation initiation factor 3 complex [GO:0005852],translational initiation,ribosome binding ,Ribosome Biosynthesis,lightgreen,7
+IPO5,O00410,9606.ENSP00000261574,HR, nuclear pore [GO:0005643],nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+POLRMT,O00411,9606.ENSP00000465759,0,mitochondrial DNA-directed RNA polymerase complex [GO:0034245],"transcription, DNA-templated ",DNA binding ,Transcription Regulation,slateblue1,9
+SAP18,O00422,9606.ENSP00000481842,0,histone deacetylase complex ,"negative regulation of transcription, DNA-templated ",transcription corepressor activity ,Transcription Regulation,slateblue1,9
+IGF2BP3,O00425,9606.ENSP00000258729,0,P-body ,RNA processing ,mRNA binding ,p53 Pathway,tomato,5
+PSMD14,O00487,9606.ENSP00000386541,HR,proteasome complex,proteasome-mediated ubiquitin-dependent protein catabolic process,proteasome binding,Proteasome,grey,6
+PES1,O00541,9606.ENSP00000346725,0,PeBoW complex ,rRNA processing ,ribonucleoprotein complex binding ,Cell Cycle regulation,coral1,1
+NOP56,O00567,9606.ENSP00000370589,DSB,small-subunit processome ,rRNA processing ,histone methyltransferase binding ,Ribosome Biosynthesis,lightgreen,7
+DDX3X,O00571,9606.ENSP00000494040,0,P granule ,positive regulation of gene expression ,RNA helicase activity ,Chromatin Organization,darkviolet,2
+KPNA4,O00629,9606.ENSP00000334373,0, nuclear membrane [GO:0031965],nucleocytoplasmic transport ,structural constituent of nuclear pore ,DNA Repair,firebrick1,3
+TCERG1,O14776,9606.ENSP00000296702,0,nucleus,positive regulation of transcription from RNA polymerase II promoter,transcription coactivator activity,Transcription Regulation,slateblue1,9
+PSMA7,O14818,9606.ENSP00000359910,HR,proteasome complex ,proteasomal protein catabolic process ,proteasome-activating ATPase activity ,Proteasome,grey,6
+XPO1,O14980,9606.ENSP00000384863,0, nuclear envelope [GO:0005635],nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+SPTBN2,O15020,9606.ENSP00000432568,0,spectrin ,actin filament capping ,structural constituent of cytoskeleton ,DNA Repair,firebrick1,3
+U2SURP,O15042,9606.ENSP00000418563,RLOOPS,nucleoplasm ,RNA processing ,RNA binding ,RNA Metabolism,gold,8
+POLR1C,O15160,9606.ENSP00000496044,0,fibrillar center,transcription from RNA polymerase I promoter,RNA polymerase I activity,Transcription Regulation,slateblue1,9
+WDR46,O15213,9606.ENSP00000363746,0,nucleolus,ribosomal small subunit biogenesis,RNA binding,Ribosome Biosynthesis,lightgreen,7
+NKRF,O15226,9606.ENSP00000442308,0,nucleus,"negative regulation of transcription, DNA-templated",RNA polymerase II core promoter proximal region sequence-specific DNA binding,Transcription Regulation,slateblue1,9
+SURF4,O15260,9606.ENSP00000361057,0,nuclear membrane,Golgi organization,protein binding,UPR,maroon,10
+OGT,O15294,9606.ENSP00000362824,0,histone acetyltransferase complex ,positive regulation of histone methylation ,chromatin DNA binding ,Chromatin Organization,darkviolet,2
+NVL,O15381,9606.ENSP00000281701,0,nucleolus,ribosome biogenesis,RNA binding,Ribosome Biosynthesis,lightgreen,7
+NUP42,O15504,9606.ENSP00000258742,0,nuclear pore,nucleocytoplasmic transport,nuclear export signal receptor activity,Nuclear Pore,deepskyblue3,4
+DHX15,O43143,9606.ENSP00000336741,0,spliceosomal complex ,RNA splicing ,RNA helicase activity ,RNA Metabolism,gold,8
+RNMT,O43148,9606.ENSP00000466111,0,mRNA cap methyltransferase complex,methylguanosine mRNA capping,mRNA (guanine-N7-)-methyltransferase activity,RNA Metabolism,gold,8
+RRP8,O43159,9606.ENSP00000254605,0,eNoSc complex ,positive regulation of histone methylation ,methyltransferase activity ,Chromatin Organization,darkviolet,2
+PRPF4,O43172,9606.ENSP00000363313,NER,spliceosomal complex ,"mRNA splicing, via spliceosome ",RNA binding ,RNA Metabolism,gold,8
+PSMD3,O43242,9606.ENSP00000264639,0, proteasome complex [GO:0000502],proteasomal protein catabolic process ,proteasome-activating ATPase activity ,Proteasome,grey,6
+RBFOX2,O43251,9606.ENSP00000413035,0,nucleoplasm ,"negative regulation of transcription, DNA-templated ",transcription corepressor activity ,Transcription Regulation,slateblue1,9
+SART1,O43290,9606.ENSP00000310448,HR,U2-type precatalytic spliceosome ,"mRNA splicing, via spliceosome ",RNA binding ,Ribosome Biosynthesis,lightgreen,7
+PPIH,O43447,9606.ENSP00000306614,0,spliceosomal complex ,"mRNA splicing, via spliceosome ",ribonucleoprotein complex binding ,RNA Metabolism,gold,8
+HTRA2,O43464,9606.ENSP00000258080,DSB,serine-type endopeptidase complex,proteolysis,"serine-type endopeptidase activity,",Proteasome,grey,6
+EPB41L2,O43491,9606.ENSP00000357110,0,nucleoplasm,cell cycle,structural molecule activity,Cell Cycle regulation,coral1,1
+PLRG1,O43660,9606.ENSP00000424417,0,spliceosomal complex ,"mRNA splicing, via spliceosome ",mRNA binding ,Cell Cycle regulation,coral1,1
+BUB3,O43684,9606.ENSP00000357858,DSB,bub1-bub3 complex ,cell division ,ubiquitin binding ,Cell Cycle regulation,coral1,1
+ACTN4,O43707,9606.ENSP00000252699,0, cortical actin cytoskeleton [GO:0030864],apoptotic process,actin filament organization ,Transcription Regulation,slateblue1,9
+WBSCR22,O43709,9606.ENSP00000401191,DSB,nucleolus ,chromatin organization ,methyltransferase activity ,Chromatin Organization,darkviolet,2
+HTATSF1,O43719,9606.ENSP00000442699,RLOOPS,U2-type spliceosomal complex ,"mRNA splicing, via spliceosome ",RNA binding ,Transcription Regulation,slateblue1,9
+MYO1B,O43795,9606.ENSP00000376132,0,myosin complex ,actin filament organization ,actin filament organization ,p53 Pathway,tomato,5
+NUDT21,O43809,9606.ENSP00000300291,DSB,mRNA cleavage and polyadenylation specificity factor complex ,mRNA polyadenylation ,histone deacetylase binding ,RNA Metabolism,gold,8
+RRP9,O43818,9606.ENSP00000232888,0,small-subunit processome ,rRNA processing ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+IDH3B,O43837,9606.ENSP00000370223,0,mitochondrial isocitrate dehydrogenase complex (NAD+) [GO:0005962],2-oxoglutarate metabolic process,isocitrate dehydrogenase (NAD+) activity,DNA Repair,firebrick1,3
+SMARCA5,O60264,9606.ENSP00000283131,0,B-WICH complex ,ATP-dependent chromatin remodeling ,chromatin binding ,Chromatin Organization,darkviolet,2
+AQR,O60306,9606.ENSP00000156471,NER,spliceosomal complex,"mRNA splicing, via spliceosome",mRNA binding,RNA Metabolism,gold,8
+OPA1,O60313,9606.ENSP00000354681,0,nucleoplasm,apoptotic process,GTPase activity,Cell Cycle regulation,coral1,1
+MCM3AP,O60318,9606.ENSP00000291688,0,nuclear pore nuclear basket,mRNA export from nucleus,histone acetyltransferase activity,Chromatin Organization,darkviolet,2
+KDM1A,O60341,9606.ENSP00000383042,0,DNA repair complex ,negative regulation of histone H3-K4 methylation ,chromatin binding ,DNA Repair,firebrick1,3
+SYNCRIP,O60506,9606.ENSP00000358635,MMR,CRD-mediated mRNA stability complex ,"mRNA splicing, via spliceosome ",mRNA binding ,RNA Metabolism,gold,8
+CDC40,O60508,9606.ENSP00000357928,HR,catalytic step 2 spliceosome,"mRNA splicing, via spliceosome",mRNA binding,RNA Metabolism,gold,8
+CTNND1,O60716,9606.ENSP00000382004,0,catenin complex ,Wnt signaling pathway ,protein kinase binding ,Chromatin Organization,darkviolet,2
+DPM1,O60762,9606.ENSP00000360638,0,nucleus,protein glycosylation,"transferase activity, transferring glycosyl groups",Transcription Regulation,slateblue1,9
+USO1,O60763,9606.ENSP00000264904,0,fibrillar center,small GTPase mediated signal transduction,RNA binding,UPR,maroon,10
+HNRNPCL1,O60812,9606.ENSP00000365370,0,ribonucleoprotein complex,mRNA 3'-end processing,RNA binding,RNA Metabolism,gold,8
+HIST1H2BK,O60814,9606.ENSP00000349430,DSB,nucleosome ,chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+DKC1,O60832,9606.ENSP00000358563,DSB,telomerase holoenzyme complex ,telomere maintenance via telomerase ,telomerase RNA binding ,Chromatin Organization,darkviolet,2
+DNAJA2,O60884,9606.ENSP00000314030,0,cytoplasm,protein folding,unfolded protein binding,UPR,maroon,10
+NBN,O60934,9606.ENSP00000265433,HR,Mre11 complex ,double-strand break repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+FAM20B,O75063,9606.ENSP00000263733,0,nucleoplasm,phosphorylation,kinase activity,UPR,maroon,10
+ZC3H11A,O75152,9606.ENSP00000491830,0,nucleoplasm,poly(A)+ mRNA export from nucleus,mRNA binding,RNA Metabolism,gold,8
+GGCT,O75223,9606.ENSP00000275428,0,cytosol,release of cytochrome c from mitochondria,gamma-glutamylcyclotransferase activity,Cell Cycle regulation,coral1,1
+PDCD6,O75340,9606.ENSP00000264933,0,Cul3-RING ubiquitin ligase complex ,activation of cysteine-type endopeptidase activity involved in apoptotic process ,ubiquitin protein ligase binding ,Chromatin Organization,darkviolet,2
+MACROH2A1,O75367,9606.ENSP00000423563,0,nucleosome ,chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+PEX14,O75381,9606.ENSP00000349016,0,"fibrillar center,","negative regulation of transcription, DNA-templated",transcription corepressor activity,Transcription Regulation,slateblue1,9
+CS,O75390,9606.ENSP00000342056,0,nucleus ,tricarboxylic acid cycle ,RNA binding ,DNA Repair,firebrick1,3
+BANF1,O75531,9606.ENSP00000310275,0,nuclear envelope ,chromatin organization ,DNA binding ,Chromatin Organization,darkviolet,2
+SF3B1,O75533,9606.ENSP00000335321,0,B-WICH complex ,chromatin organization ,mRNA binding ,RNA Metabolism,gold,8
+CSDE1,O75534,9606.ENSP00000481762,ForkStall,CRD-mediated mRNA stability complex ,CRD-mediated mRNA stabilization ,RNA binding ,RNA Metabolism,gold,8
+NPM3,O75607,9606.ENSP00000359128,0,nucleolus ,chromatin organization ,chromatin binding ,Chromatin Organization,darkviolet,2
+SNRNP200,O75643,9606.ENSP00000317123,HR, spliceosomal complex,"mRNA splicing, via spliceosome ",RNA helicase activity ,RNA Metabolism,gold,8
+SURF6,O75683,9606.ENSP00000361092,DSB,chromosome ,ribosomal small subunit biogenesis ,DNA binding ,Ribosome Biosynthesis,lightgreen,7
+NUP155,O75694,9606.ENSP00000231498,HR,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+POP7,O75817,9606.ENSP00000304353,0,ribonuclease MRP complex,rRNA processing,ribonuclease P activity,RNA Metabolism,gold,8
+ZMPSTE24,O75844,9606.ENSP00000361845,0,nuclear envelope ,nuclear envelope organization ,double-stranded DNA binding ,DNA Repair,firebrick1,3
+ALDH1L1,O75891,9606.ENSP00000273450,HR,cytoplasm,NADPH regeneration,formyltetrahydrofolate dehydrogenase activity,DNA Repair,firebrick1,3
+BCAS2,O75934,9606.ENSP00000358554,0,spliceosomal complex ,"mRNA splicing, via spliceosome ",mRNA binding ,DNA Repair,firebrick1,3
+RSL1D1,O76021,9606.ENSP00000460871,0,nucleolus ,regulation of apoptotic process ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+CLPX,O76031,9606.ENSP00000300107,0, endopeptidase Clp complex [GO:0009368],response to unfolded protein ,unfolded protein binding ,DNA Repair,firebrick1,3
+MTA2,O94776,9606.ENSP00000278823,MMR,NuRD complex ,ATP-dependent chromatin remodeling ,histone deacetylase binding ,Chromatin Organization,darkviolet,2
+TOX4,O94842,9606.ENSP00000477868,0,PTW/PP1 phosphatase complex ,"transcription, DNA-templated ",chromatin DNA binding ,Transcription Regulation,slateblue1,9
+UFL1,O94874,9606.ENSP00000358283,DSB,site of double-strand break,histone modification,"GO:0005515~protein binding,GO:0019901~protein kinase binding,GO:0061666~UFM1 ligase activity,GO:0071568~UFM1 transferase activity,",Chromatin Organization,darkviolet,2
+PRPF6,O94906,9606.ENSP00000266079,HR,spliceosomal complex ,"mRNA splicing, via spliceosome ",RNA binding ,Transcription Regulation,slateblue1,9
+GLS,O94925,9606.ENSP00000317379,0,cytosol ,glutamate homeostasis ,glutaminase activity ,DNA Repair,firebrick1,3
+CEP152,O94986,9606.ENSP00000370337,0, centrosome [GO:0005813],cell cycle ,protein kinase binding ,Chromatin Organization,darkviolet,2
+UBR5,O95071,9606.ENSP00000429084,NER,nucleoplasm ,double-strand break repair ,RNA binding ,DNA Repair,firebrick1,3
+KIF20A,O95235,9606.ENSP00000378356,0,kinesin complex ,protein transport ,protein kinase binding ,Cell Cycle regulation,coral1,1
+SMC2,O95347,9606.ENSP00000286398,0,condensin complex,positive regulation of chromosome condensation,chromatin binding,Chromatin Organization,darkviolet,2
+NSA2,O95478,9606.ENSP00000483484,0,nucleolus ,rRNA processing ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+POLR1A,O95602,9606.ENSP00000263857,0,RNA polymerase I complex ,"transcription, DNA-templated ",chromatin binding ,Transcription Regulation,slateblue1,9
+PTBP3,O95758,9606.ENSP00000414921,0,nucleus,RNA splicing,mRNA binding,RNA Metabolism,gold,8
+AIFM1,O95831,9606.ENSP00000287295,0,nucleus,regulation of apoptotic DNA fragmentation,NADH dehydrogenase activity,Chromatin Organization,darkviolet,2
+ACTL6A,O96019,9606.ENSP00000397552,0, SWI/SNF complex [GO:0016514],chromatin remodeling ,transcription coactivator activity ,Chromatin Organization,darkviolet,2
+LDHA,P00338,9606.ENSP00000445175,0,nucleus ,positive regulation of apoptotic process ,NAD binding ,DNA Repair,firebrick1,3
+GLUD1,P00367,9606.ENSP00000277865,HR,nucleus ,glutamate homeostasis ,glutamate dehydrogenase ,DNA Repair,firebrick1,3
+MT-CO2,P00403,9606.ENSP00000354876,0,mitochondrial membrane,positive regulation of necrotic cell death,cytochrome-c oxidase activity,Cell Cycle regulation,coral1,1
+EGFR,P00533,9606.ENSP00000275493,0, nuclear membrane [GO:0031965],positive regulation of protein kinase activity ,protein kinase binding ,Cell Cycle regulation,coral1,1
+PGK1,P00558,9606.ENSP00000362413,0,membrane raft ,glycolytic process ,ATP binding ,DNA Repair,firebrick1,3
+NRAS,P01111,9606.ENSP00000358548,0,membrane,MAPK cascade,GTPase activity,Cell Cycle regulation,coral1,1
+LMNA,P02545,9606.ENSP00000357283,0, nuclear lamina [GO:0005652],nuclear envelope organization ,lamin binding ,Chromatin Organization,darkviolet,2
+TFRC,P02786,9606.ENSP00000376197,0,nucleus ,positive regulation of NF-kappaB transcription factor activity ,protein kinase binding ,Transcription Regulation,slateblue1,9
+LTF,P02788,9606.ENSP00000231751,0,nucleus ,positive regulation of NF-kappaB transcription factor activity ,DNA binding ,Chromatin Organization,darkviolet,2
+ALDOA,P04075,9606.ENSP00000378669,0,nucleus ,glycolytic process ,RNA binding ,DNA Repair,firebrick1,3
+TUBB4A,P04350,9606.ENSP00000264071,0,microtubule cytoskeleton,mitotic cell cycle,structural constituent of cytoskeleton,Cell Cycle regulation,coral1,1
+GAPDH,P04406,9606.ENSP00000229239,DSB,GAIT complex ,protein stabilization ,NAD binding ,DNA Repair,firebrick1,3
+HSPB1,P04792,9606.ENSP00000248553,0,nucleus,response to unfolded protein,unfolded protein binding,UPR,maroon,10
+RPN1,P04843,9606.ENSP00000296255,DSB,oligosaccharyltransferase complex ,protein glycosylation ,RNA binding ,DNA Repair,firebrick1,3
+RPN2,P04844,9606.ENSP00000237530,BER,oligosaccharyltransferase complex ,protein modification process ,ribosome binding ,DNA Repair,firebrick1,3
+GNAI2,P04899,9606.ENSP00000312999,0, membrane raft [GO:0045121],cell cycle ,GTPase activity ,Cell Cycle regulation,coral1,1
+ALDH2,P05091,9606.ENSP00000261733,0, mitochondrial matrix [GO:0005759],carbohydrate metabolic process,NAD binding ,DNA Repair,firebrick1,3
+SLC25A5,P05141,9606.ENSP00000360671,DSB,MMXD complex ,chromosome segregation ,ubiquitin protein ligase binding ,DNA Repair,firebrick1,3
+EIF2S1,P05198,9606.ENSP00000256383,0, eukaryotic translation initiation factor 2 complex [GO:0005850],translational initiation,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+RPLP0,P05388,9606.ENSP00000449328,DSB,ribonucleoprotein complex ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+KRT18,P05783,9606.ENSP00000373487,HR,nucleolus ,cell cycle ,RNA binding ,Cell Cycle regulation,coral1,1
+CDK1,P06493,9606.ENSP00000378699,0,cyclin B1-CDK1 complex ,chromatin organization ,chromatin binding ,DNA Repair,firebrick1,3
+S100A9,P06702,9606.ENSP00000357727,0, nucleoplasm [GO:0005654],apoptotic process,microtubule binding ,DNA Repair,firebrick1,3
+ENO1,P06733,9606.ENSP00000495530,0, phosphopyruvate hydratase complex [GO:0000015],glycolytic process ,cadherin binding ,DNA Repair,firebrick1,3
+GPI,P06744,9606.ENSP00000405573,0, ficolin-1-rich granule lumen [GO:1904813],glycolytic process ,ubiquitin ligase binding,p53 Pathway,tomato,5
+NPM1,P06748,9606.ENSP00000296930,0,ribonucleoprotein complex ,chromatin organization ,chromatin binding ,DNA Repair,firebrick1,3
+H2BC11,P06899,9606.ENSP00000476136,NHEJ,nucleosome,nucleosome assembly,structural constituent of chromatin,Chromatin Organization,darkviolet,2
+LDHB,P07195,9606.ENSP00000379386,0, oxidoreductase complex [GO:1990204],NAD metabolic process,NAD binding ,DNA Repair,firebrick1,3
+CTSD,P07339,9606.ENSP00000236671,0,ficolin-1-rich granule lumen,proteolysis,peptidase activity,UPR,maroon,10
+ANXA2,P07355,9606.ENSP00000346032,0,RNA polymerase II transcription regulator complex ,positive regulation of transcription from RNA polymerase II promoter ,RNA binding ,DNA Repair,firebrick1,3
+CAPN1,P07384,9606.ENSP00000431984,0,cytoplasm,positive regulation of cell proliferation,peptidase activity,Cell Cycle regulation,coral1,1
+TUBB,P07437,9606.ENSP00000339001,DSB,nuclear envelope ,microtubule cytoskeleton organization ,ubiquitin protein ligase binding ,Cell Cycle regulation,coral1,1
+EPRS,P07814,9606.ENSP00000355890,0, GAIT complex [GO:0097452],RNA processing ,RNA binding ,Cell Cycle regulation,coral1,1
+HSP90AA1,P07900,9606.ENSP00000335153,NER,nucleoplasm ,response to unfolded protein ,unfolded protein binding ,UPR,maroon,10
+HNRNPC,P07910,9606.ENSP00000451291,HR,telomerase holoenzyme complex ,chromatin remodeling ,nucleosomal DNA binding ,Chromatin Organization,darkviolet,2
+YES1,P07947,9606.ENSP00000462468,0,actin filament,protein phosphorylation,protein tyrosine kinase activity,Cell Cycle regulation,coral1,1
+LYN,P07948,9606.ENSP00000428924,DSB,nucleus,protein phosphorylation,kinase activity,Cell Cycle regulation,coral1,1
+FH,P07954,9606.ENSP00000355518,HR,site of double-strand break ,positive regulation of double-strand break repair via nonhomologous end joining ,histone binding ,DNA Repair,firebrick1,3
+ANXA6,P08133,9606.ENSP00000346550,0,perinuclear region of cytoplasm,apoptotic signaling pathway,phosphatidylserine binding,Cell Cycle regulation,coral1,1
+RHOC,P08134,9606.ENSP00000285735,0,nucleus,regulation of actin cytoskeleton organization,protein kinase binding,Cell Cycle regulation,coral1,1
+SLC3A2,P08195,9606.ENSP00000367123,0,nucleoplasm,amino acid transport,~double-stranded RNA binding,UPR,maroon,10
+HSP90AB1,P08238,9606.ENSP00000360609,NER,nucleoplasm ,response to unfolded protein ,unfolded protein binding ,Cell Cycle regulation,coral1,1
+SRPR,P08240,9606.ENSP00000328023,0,signal recognition particle receptor complex ,protein targeting ,RNA binding ,UPR,maroon,10
+PDHA1,P08559,9606.ENSP00000369134,0,pyruvate dehydrogenase complex,tricarboxylic acid cycle,pyruvate dehydrogenase (NAD+) activity,Cell Cycle regulation,coral1,1
+VIM,P08670,9606.ENSP00000446007,0,ribonucleoprotein complex ,positive regulation of gene expression ,double-stranded RNA binding ,Chromatin Organization,darkviolet,2
+RPS17,P08708,9606.ENSP00000346046,0,focal adhesion ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+GNAI3,P08754,9606.ENSP00000358867,0, heterotrimeric G-protein complex [GO:0005834],cell cycle ,GTPase activity ,Cell Cycle regulation,coral1,1
+ANXA5,P08758,9606.ENSP00000296511,0, focal adhesion [GO:0005925],negative regulation of apoptotic process,phospholipid binding,Cell Cycle regulation,coral1,1
+RPSA,P08865,9606.ENSP00000389351,DSB,nucleoplasm ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+FGF2,P09038,9606.ENSP00000264498,0,nucleus,positive regulation of cell proliferation,fibroblast growth factor receptor binding,Cell Cycle regulation,coral1,1
+GSTP1,P09211,9606.ENSP00000381607,0,nucleus,negative regulation of apoptotic process,glutathione transferase activity,Cell Cycle regulation,coral1,1
+DLD,P09622,9606.ENSP00000205402,0,oxoglutarate dehydrogenase complex ,2-oxoglutarate metabolic process ,NAD binding ,Chromatin Organization,darkviolet,2
+HNRNPA1,P09651,9606.ENSP00000341826,0,spliceosomal complex ,"mRNA splicing, via spliceosome ",single-stranded DNA binding ,Nuclear Pore,deepskyblue3,4
+SNRPA1,P09661,9606.ENSP00000254193,MMR,spliceosomal complex ,"mRNA splicing, via spliceosome ",RNA binding ,DNA Repair,firebrick1,3
+PARP1,P09874,9606.ENSP00000355759,HR,site of DNA damage ,double-strand break repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+ALDOC,P09972,9606.ENSP00000378731,0,cytosol,gluconeogenesis,fructose-bisphosphate aldolase activity,Transcription Regulation,slateblue1,9
+HSPA1B,P0DMV8,9606.ENSP00000364801,HR,centrosome ,response to unfolded protein ,unfolded protein binding ,UPR,darkviolet,2
+H1-4,P10412,9606.ENSP00000307705,0,nucleosome,nucleosome assembly,structural constituent of chromatin,Chromatin Organization,darkviolet,2
+MAPT,P10636,9606.ENSP00000340820,0,tubulin complex ,microtubule cytoskeleton organization ,DNA binding ,DNA Repair,firebrick1,3
+HSPD1,P10809,9606.ENSP00000373620,0,clathrin-coated pit ,response to unfolded protein ,unfolded protein binding ,DNA Repair,firebrick1,3
+HSPA5,P11021,9606.ENSP00000324173,0,nucleus ,response to unfolded protein ,unfolded protein binding ,Chromatin Organization,darkviolet,2
+HSPA8,P11142,9606.ENSP00000432083,NER,spliceosomal complex ,"mRNA splicing, via spliceosome ",unfolded protein binding ,Cell Cycle regulation,coral1,1
+PDHB,P11177,9606.ENSP00000307241,0,pyruvate dehydrogenase complex,acetyl-CoA biosynthetic process from pyruvate,pyruvate dehydrogenase (NAD+) activity,Chromatin Organization,darkviolet,2
+RALA,P11233,9606.ENSP00000005257,0,cleavage furrow,cell cycle,ubiquitin protein ligase binding,Cell Cycle regulation,coral1,1
+TOP1,P11387,9606.ENSP00000354522,0,"GO:0000228~nuclear chromosome,GO:0000932~P-body,GO:0001650~fibrillar center,GO:0001673~male germ cell nucleus,GO:0005634~nucleus,GO:0005654~nucleoplasm,GO:0005694~chromosome,GO:0005730~nucleolus,GO:0032993~protein-DNA complex,GO:0043204~perikaryon,","GO:0006260~DNA replication,GO:0006265~DNA topological change,GO:0006338~chromatin remodeling,GO:0007059~chromosome segregation,GO:0007623~circadian rhythm,GO:0009410~response to xenobiotic stimulus,GO:0012501~programmed cell death,GO:0016310~phosphorylation,GO:0018105~peptidyl-serine phosphorylation,GO:0032922~circadian regulation of gene expression,GO:0040016~embryonic cleavage,","GO:0000978~RNA polymerase II core promoter proximal region sequence-specific DNA binding,GO:0003677~DNA binding,GO:0003682~chromatin binding,GO:0003690~double-stranded DNA binding,GO:0003697~single-stranded DNA binding,GO:0003723~RNA binding,GO:0003917~DNA topoisomerase type I activity,GO:0004674~protein serine/threonine kinase activity,GO:0005515~protein binding,GO:0005524~ATP binding,GO:0008301~DNA binding, bending,GO:0019904~protein domain specific binding,GO:0097100~supercoiled DNA binding,",Chromatin Organization,darkviolet,2
+MTHFD1,P11586,9606.ENSP00000216605,0,cytosol ,purine nucleotide biosynthetic process ,methylenetetrahydrofolate dehydrogenase activity ,Chromatin Organization,darkviolet,2
+PABPC1,P11940,9606.ENSP00000313007,HR,mCRD-mediated mRNA stability complex ,"mRNA splicing, via spliceosome ",mRNA binding ,RNA Metabolism,gold,8
+PCNA,P12004,9606.ENSP00000368458,HR, PCNA complex [GO:0043626],DNA repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+IMPDH2,P12268,9606.ENSP00000321584,0,nucleus ,cellular response to interleukin-4 ,DNA binding ,Cell Cycle regulation,coral1,1
+TPR,P12270,9606.ENSP00000356448,DSB,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Cell Cycle regulation,coral1,1
+ACTN1,P12814,9606.ENSP00000377941,0, cortical actin cytoskeleton [GO:0030864],actin filament capping ,actin filament organization ,Transcription Regulation,slateblue1,9
+XRCC6,P12956,9606.ENSP00000352257,NHEJ,Ku70:Ku80 complex ,double-strand break repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+XRCC5,P13010,9606.ENSP00000375978,NHEJ,Ku70:Ku80 complex ,double-strand break repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+UNG,P13051,9606.ENSP00000242576,BER,nucleus,base-excision repair,uracil DNA N-glycosylase activity,DNA Repair,firebrick1,3
+EEF2,P13639,9606.ENSP00000307940,0,ribonucleoprotein complex ,cellular response to brain-derived neurotrophic factor stimulus ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+PDIA4,P13667,9606.ENSP00000499129,0,endoplasmic reticulum,protein folding,protein disulfide isomerase activity,UPR,maroon,10
+TPT1,P13693,9606.ENSP00000477781,DSB,nucleoplasm ,regulation of apoptotic process ,RNA binding ,DNA Repair,firebrick1,3
+PRKAR2A,P13861,9606.ENSP00000265563,0,cAMP-dependent protein kinase complex ,regulation of protein kinase A  signaling ,ubiquitin protein ligase binding ,Chromatin Organization,darkviolet,2
+PKM,P14618,9606.ENSP00000320171,0, nucleus [GO:0005634],glycolytic process ,protein kinase binding ,DNA Repair,firebrick1,3
+HSP90B1,P14625,9606.ENSP00000299767,0,nucleus ,response to unfolded protein ,unfolded protein binding ,DNA Repair,firebrick1,3
+HNRNPL,P14866,9606.ENSP00000221419,DSB,ribonucleoprotein complex ,RNA processing ,mRNA binding ,DNA Repair,firebrick1,3
+JUP,P14923,9606.ENSP00000377508,0, gamma-catenin-TCF7L2 complex [GO:0071665],positive regulation of protein kinase activity ,protein kinase binding ,Transcription Regulation,slateblue1,9
+NME1,P15531,9606.ENSP00000337060,0,nucleus ,regulation of apoptotic process ,RNA binding ,DNA Repair,firebrick1,3
+NQO1,P15559,9606.ENSP00000319788,0,cytoplasm [GO:0005737],response to oxidative stress,NADH dehydrogenase activity,DNA Repair,firebrick1,3
+RPS2,P15880,9606.ENSP00000341885,DSB,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Chromatin Organization,darkviolet,2
+DSP,P15924,9606.ENSP00000369129,0,nucleus ,lipid binding ,RNA binding ,Chromatin Organization,darkviolet,2
+H1-5,P16401,9606.ENSP00000330074,DSB,nucleosome ,chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+HIST1H1C,P16403,9606.ENSP00000339566,DSB,nucleosome ,chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+HSPA6,P17066,9606.ENSP00000310219,0,nucleus ,response to unfolded protein ,unfolded protein binding ,UPR,maroon,10
+DDX5,P17844,9606.ENSP00000225792,NER,ribonucleoprotein complex ,"mRNA splicing, via spliceosome ",RNA helicase activity ,DNA Repair,firebrick1,3
+LGALS3,P17931,9606.ENSP00000254301,0, spliceosomal complex [GO:0005681],RNA splicing ,RNA binding ,DNA Repair,firebrick1,3
+RPL7,P18124,9606.ENSP00000339795,0,ribonucleoprotein complex ,rRNA processing ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+SON,P18583,9606.ENSP00000348984,0,nuclear speck ,RNA processing ,RNA binding ,Cell Cycle regulation,coral1,1
+RPL17,P18621,9606.ENSP00000463842,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+PGAM1,P18669,9606.ENSP00000359991,0, ficolin-1-rich granule lumen [GO:1904813],glycolytic process ,protein kinase binding ,DNA Repair,firebrick1,3
+RCC1,P18754,9606.ENSP00000497402,DSB,condensed nuclear chromosome ,chromatin organization ,chromatin binding ,Cell Cycle regulation,coral1,1
+XRCC1,P18887,9606.ENSP00000262887,DSB,ERCC4-ERCC1 complex ,double-strand break repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+NCL,P19338,9606.ENSP00000318195,DSB,spliceosomal complex ,"transcription, DNA-templated ",DNA binding ,Transcription Regulation,slateblue1,9
+POLR2E,P19388,9606.ENSP00000478303,HR,"RNA polymerase II, core complex ","transcription, DNA-templated ",DNA binding ,Transcription Regulation,slateblue1,9
+ATP2B1,P20020,9606.ENSP00000392043,HR,"glutamatergic synapse,","cellular calcium ion homeostasis,GO:0007420~brain development",calcium ion transmembrane transporter activity,Cell Cycle regulation,coral1,1
+ANXA7,P20073,9606.ENSP00000362010,0,nucleus,negative regulation of gene expression,RNA binding,Cell Cycle regulation,coral1,1
+RAB5A,P20339,9606.ENSP00000273047,0,actin cytoskeleton,intracellular protein transport,GTPase activity,Cell Cycle regulation,coral1,1
+LMNB1,P20700,9606.ENSP00000261366,NER,nuclear envelope ,nuclear envelope organization ,lamin binding ,DNA Repair,firebrick1,3
+FLNA,P21333,9606.ENSP00000358866,0,actin cytoskeleton [GO:0015629],actin filament capping ,microtubule binding ,DNA Repair,firebrick1,3
+VDAC1,P21796,9606.ENSP00000378487,0,nucleus,apoptotic process,porin activity,Cell Cycle regulation,coral1,1
+MMUT,P22033,9606.ENSP00000274813,0,cytoplasm,succinyl-CoA biosynthetic process,GTPase activity,Chromatin Organization,darkviolet,2
+FBL,P22087,9606.ENSP00000221801,DSB,box C/D RNP complex ,rRNA processing ,methyltransferase activity ,Chromatin Organization,darkviolet,2
+PAICS,P22234,9606.ENSP00000382595,0,cytoplasm [GO:0005737],purine nucleobase biosynthetic process,phosphoribosylaminoimidazole carboxylase activity,DNA Repair,firebrick1,3
+HNRNPA2B1,P22626,9606.ENSP00000346694,MMR,"chromosome, telomeric region ","mRNA splicing, via spliceosome ",miRNA binding ,Chromatin Organization,darkviolet,2
+RFX1,P22670,9606.ENSP00000254325,0,chromatin,regulation of transcription from RNA polymerase II promoter,RNA polymerase II transcription factor activity,Transcription Regulation,slateblue1,9
+UQCRC2,P22695,9606.ENSP00000268379,0,nucleoplasm,oxidative phosphorylation,metalloendopeptidase activity,p53 Pathway,tomato,5
+SFPQ,P23246,9606.ENSP00000349748,DSB,RNA polymerase II transcription regulator complex ,"transcription, DNA-templated ",histone deacetylase binding ,DNA Repair,firebrick1,3
+PPIB,P23284,9606.ENSP00000300026,0,chaperone complex,protein folding,unfolded protein binding,UPR,maroon,10
+RPS3,P23396,9606.ENSP00000278572,DSB,NF-kappaB complex ,double-strand break repair ,structural constituent of ribosome ,DNA Repair,firebrick1,3
+AHCY,P23526,9606.ENSP00000217426,0,cytosol [GO:0005829],S-adenosylmethionine cycle,NAD binding ,DNA Repair,firebrick1,3
+HIST1H2BO,P23527,9606.ENSP00000477527,DSB,nucleosome ,chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+CFL1,P23528,9606.ENSP00000432660,0,nuclear matrix ,negative regulation of apoptotic process ,actin filament binding ,Cell Cycle regulation,coral1,1
+MCM3,P25205,9606.ENSP00000480987,0,MCM complex ,DNA duplex unwinding ,DNA helicase activity ,DNA Repair,firebrick1,3
+AZGP1,P25311,9606.ENSP00000292401,0,nucleus,negative regulation of cell proliferation,"GO:0004540~ribonuclease activity,GO:0005515~protein binding,GO:0008320~protein transmembrane transporter activity,",Cell Cycle regulation,coral1,1
+PSMA1,P25786,9606.ENSP00000414359,HR,proteasome complex ,proteasomal protein catabolic process ,RNA binding ,Proteasome,grey,6
+PSMA2,P25787,9606.ENSP00000223321,HR,proteasome complex ,proteasomal protein catabolic process ,proteasome-activating ATPase activity ,Proteasome,grey,6
+PSMA3,P25788,9606.ENSP00000216455,DSB,proteasome complex ,proteasomal protein catabolic process ,ubiquitin protein ligase binding ,Proteasome,grey,6
+MSN,P26038,9606.ENSP00000353408,0,nucleus,positive regulation of gene expression,double-stranded RNA binding,RNA Metabolism,gold,8
+U2AF2,P26368,9606.ENSP00000307863,0,spliceosomal complex,"mRNA splicing, via spliceosome",RNA binding,RNA Metabolism,gold,8
+RPL13,P26373,9606.ENSP00000307889,0,nucleolus ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+PTBP1,P26599,9606.ENSP00000349428,NER,nucleoplasm ,RNA splicing ,DNA binding ,RNA Metabolism,gold,8
+RPL10,P27635,9606.ENSP00000413436,0,cytosolic large ribosomal subunit ,cytoplasmic translation ,structural constituent of ribosome ,Transcription Regulation,slateblue1,9
+RPA1,P27694,9606.ENSP00000254719,HR,site of DNA damage ,base-excision repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+APEX1,P27695,9606.ENSP00000216714,BER,"chromosome, telomeric region ",base-excision repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+CALR,P27797,9606.ENSP00000320866,0, nuclear envelope [GO:0005635],response to unfolded protein ,unfolded protein binding ,DNA Repair,firebrick1,3
+CANX,P27824,9606.ENSP00000247461,0,nuclear membrane,protein folding,unfolded protein binding,UPR,maroon,10
+PSMA5,P28066,9606.ENSP00000271308,HR,proteasome complex ,proteasomal protein catabolic process ,proteasome-activating ATPase activity ,Proteasome,grey,6
+PSMB6,P28072,9606.ENSP00000270586,NHEJ,proteasome complex ,proteasomal protein catabolic process ,threonine-type endopeptidase activity ,Proteasome,grey,6
+ERCC5,P28715,9606.ENSP00000498881,NER,nucleotide-excision repair complex,nucleotide-excision repair,endonuclease activity,DNA Repair,firebrick1,3
+LAP3,P28838,9606.ENSP00000226299,0, nucleoplasm [GO:0005654],proteolysis,peptidase activity,p53 Pathway,tomato,5
+MPG,P29372,9606.ENSP00000219431,BER,nucleoplasm ,base-excision repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+TKT,P29401,9606.ENSP00000391481,HR,nuclear body ,glyceraldehyde-3-phosphate biosynthetic process ,transketolase activity ,Chromatin Organization,darkviolet,2
+SERPINB3,P29508,9606.ENSP00000283752,0,nucleus ,negative regulation of proteolysis ,protease binding ,Chromatin Organization,darkviolet,2
+EEF1D,P29692,9606.ENSP00000410059,0,nucleus,cellular response to ionizing radiation,translation elongation factor activity,Ribosome Biosynthesis,lightgreen,7
+PRDX3,P30048,9606.ENSP00000298510,0,early endosome ,positive regulation of NF-kappaB transcription factor activity ,protein kinase binding ,Chromatin Organization,darkviolet,2
+PDIA3,P30101,9606.ENSP00000300289,0,Tapasin-ERp57 complex ,response to unfolded protein ,RNA binding ,DNA Repair,firebrick1,3
+PPP2R1B,P30154,9606.ENSP00000311344,0,protein phosphatase type 2A complex,protein dephosphorylation,protein phosphatase regulator activity,Cell Cycle regulation,coral1,1
+NMT1,P30419,9606.ENSP00000468424,0,cytoplasm ,N-terminal protein myristoylation ,myristoyltransferase activity ,Cell Cycle regulation,coral1,1
+ALDH1B1,P30837,9606.ENSP00000366927,0, nucleoplasm [GO:0005654],NAD metabolic process,NAD binding ,DNA Repair,firebrick1,3
+SDHA,P31040,9606.ENSP00000264932,0,nucleolus,succinate dehydrogenase,"succinate dehydrogenase activity,",Ribosome Biosynthesis,lightgreen,7
+S100A7,P31151,9606.ENSP00000357712,0,nucleus ,response to ROS ,calcium binding ,p53 Pathway,tomato,5
+CPS1,P31327,9606.ENSP00000402608,0,nucleolus ,cellular response to cAMP ,endopeptidase activity ,Cell Cycle regulation,coral1,1
+DNAJA1,P31689,9606.ENSP00000369127,0,nucleus,response to unfolded protein,unfolded protein binding,UPR,maroon,10
+HNRNPH1,P31943,9606.ENSP00000349168,HR,spliceosomal complex ,"mRNA splicing, via spliceosome ",RNA binding ,DNA Repair,firebrick1,3
+YWHAB,P31946,9606.ENSP00000361930,0,perinuclear region of cytoplasm ,"transcription, DNA-templated ",histone deacetylase binding ,Transcription Regulation,slateblue1,9
+RPL9,P32969,9606.ENSP00000400467,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+CSTF2,P33240,9606.ENSP00000387996,0,mRNA cleavage and polyadenylation specificity factor complex,mRNA 3'-end processing,mRNA binding,RNA Metabolism,gold,8
+MCM4,P33991,9606.ENSP00000262105,DSB,MCM complex,DNA replication,DNA helicase activity,Cell Cycle regulation,coral1,1
+MCM5,P33992,9606.ENSP00000216122,0,CMG complex ,DNA duplex unwinding ,DNA helicase activity ,Cell Cycle regulation,coral1,1
+MCM7,P33993,9606.ENSP00000307288,0,CMG complex ,DNA duplex unwinding ,DNA helicase activity ,Cell Cycle regulation,coral1,1
+SHMT1,P34896,9606.ENSP00000318868,0,nucleus,protein deubiquitination,glycine hydroxymethyltransferase activity,Cell Cycle regulation,coral1,1
+SHMT2,P34897,9606.ENSP00000333667,0,BRISC complex ,negative regulation of protein ubiquitination ,methyltransferase activity ,Chromatin Organization,darkviolet,2
+HSPA4,P34932,9606.ENSP00000302961,NER,nucleus ,response to unfolded protein ,unfolded protein binding ,UPR,maroon,10
+CTNNB1,P35222,9606.ENSP00000495360,0,Wnt signalosome ,"transcription, DNA-templated ",transcription coactivator activity ,Chromatin Organization,darkviolet,2
+PHB,P35232,9606.ENSP00000479488,DSB,nucleoplasm ,histone deacetylation ,histone deacetylase binding ,Chromatin Organization,darkviolet,2
+RFC2,P35250,9606.ENSP00000055077,HR,DNA replication factor C complex ,DNA duplex unwinding ,single-stranded DNA-dependent ATP-dependent DNA helicase activity ,DNA Repair,firebrick1,3
+RPL22,P35268,9606.ENSP00000346088,DSB,ribonucleoprotein complex ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+MYH9,P35579,9606.ENSP00000216181,NER,myosin complex ,protein transport ,ATPase activity ,Cell Cycle regulation,coral1,1
+FUS,P35637,9606.ENSP00000254108,0,nucleoplasm ,double-strand break repair ,transcription coactivator activity ,DNA Repair,firebrick1,3
+NUP214,P35658,9606.ENSP00000352400,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+PSMC2,P35998,9606.ENSP00000391211,0,proteasome complex ,proteasomal protein catabolic process ,proteasome-activating ATPase activity ,Proteasome,grey,6
+RPL4,P36578,9606.ENSP00000311430,0,nucleolus ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+LONP1,P36776,9606.ENSP00000353826,0,nucleoplasm,misfolded or incompletely synthesized protein catabolic process,serine-type endopeptidase activity,UPR,maroon,10
+PPP1CC,P36873,9606.ENSP00000341779,0,PTW/PP1 phosphatase complex ,cell cycle ,protein phosphatase 1 binding ,Cell Cycle regulation,coral1,1
+DLST,P36957,9606.ENSP00000335304,0,oxoglutarate dehydrogenase complex ,2-oxoglutarate metabolic process ,transferase activity transferring acyl groups ,Chromatin Organization,darkviolet,2
+NUP62,P37198,9606.ENSP00000471191,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+FDFT1,P37268,9606.ENSP00000491537,0,"endoplasmic reticulum,",farnesyl diphosphate metabolic process,"farnesyltranstransferase activity,",Cell Cycle regulation,coral1,1
+RBMX,P38159,9606.ENSP00000359645,NHEJ,spliceosomal complex ,"mRNA splicing, via spliceosome ",mRNA binding ,Transcription Regulation,slateblue1,9
+HSPA9,P38646,9606.ENSP00000297185,0,nucleolus ,response to unfolded protein ,unfolded protein binding ,UPR,maroon,10
+EIF4A3,P38919,9606.ENSP00000497641,HR,spliceosomal complex ,"mRNA splicing, via spliceosome ",RNA helicase activity ,Ribosome Biosynthesis,lightgreen,7
+RPS19,P39019,9606.ENSP00000470972,0, cytosolic small ribosomal subunit [GO:0022627],ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RPL3,P39023,9606.ENSP00000346001,0,nucleolus ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+FEN1,P39748,9606.ENSP00000305480,HR,"chromosome, telomeric region ",double-strand break repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+CCT6A,P40227,9606.ENSP00000275603,0,chaperonin-containing T-complex [GO:0005832],response to unfolded protein ,unfolded protein binding ,Cell Cycle regulation,coral1,1
+RPL13A,P40429,9606.ENSP00000375730,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+MDH2,P40926,9606.ENSP00000327070,0,nucleus,oxaloacetate metabolic process,L-malate dehydrogenase activity,Transcription Regulation,slateblue1,9
+RFC5,P40937,9606.ENSP00000408295,HR, DNA replication factor C complex [GO:0005663],DNA duplex unwinding ,ATPase activity ,DNA Repair,firebrick1,3
+RFC3,P40938,9606.ENSP00000369411,HR,DNA replication factor C complex ,DNA duplex unwinding ,single-stranded DNA-dependent ATP-dependent DNA helicase activity ,DNA Repair,firebrick1,3
+TMPO,P42166,9606.ENSP00000266732,0,nuclear envelope ,nuclear envelope organization ,lamin binding ,Chromatin Organization,darkviolet,2
+MTREX,P42285,9606.ENSP00000230640,0,TRAMP complex ,"mRNA splicing, via spliceosome ",RNA helicase activity ,DNA Repair,firebrick1,3
+RPS27,P42677,9606.ENSP00000357555,0,nucleolus ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+LRPPRC,P42704,9606.ENSP00000260665,DSB,ribonucleoprotein complex ,mRNA transport ,ubiquitin protein ligase binding ,RNA Metabolism,gold,8
+RPL35,P42766,9606.ENSP00000259469,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+CDKN2A,P42771,9606.ENSP00000418915,0,senescence-associated heterochromatin focus ,cell cycle ,protein kinase binding ,DNA Repair,firebrick1,3
+MATR3,P43243,9606.ENSP00000354346,0,nuclear matrix ,posttranscriptional regulation of gene expression ,miRNA binding ,DNA Repair,firebrick1,3
+MSH2,P43246,9606.ENSP00000233146,MMR,MutSbeta complex ,double-strand break repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+GPD2,P43304,9606.ENSP00000308610,0,glycerol-3-phosphate dehydrogenase complex,glycerol catabolic process,glycerol-3-phosphate dehydrogenase activity,Transcription Regulation,slateblue1,9
+PSMC4,P43686,9606.ENSP00000157812,ForkStall,proteasome complex ,proteasomal protein catabolic process ,proteasome-activating ATPase activity ,Proteasome,grey,6
+TSFM,P43897,9606.ENSP00000313877,0,nucleoplasm ,"transcription, DNA-templated ",RNA binding ,Transcription Regulation,slateblue1,9
+CBX5,P45973,9606.ENSP00000209875,0,histone methyltransferase complex ,chromatin organization ,methylated histone binding ,DNA Repair,firebrick1,3
+MKI67,P46013,9606.ENSP00000357643,0,chromosome ,chromatin organization ,DNA binding ,Cell Cycle regulation,coral1,1
+RANGAP1,P46060,9606.ENSP00000401470,0,SUMO ligase complex ,nucleocytoplasmic transport ,ubiquitin protein ligase binding ,DNA Repair,firebrick1,3
+RECQL,P46063,9606.ENSP00000416739,ForkStall,"chromosome,",double-strand break repair via homologous recombination,DNA helicase activity,DNA Repair,firebrick1,3
+NOP2,P46087,9606.ENSP00000371858,0,nucleoplasm ,regulation of signal transduction by p53 class mediator ,methyltransferase activity ,p53 Pathway,tomato,5
+ATRX,P46100,9606.ENSP00000362441,0,"chromosome, telomeric region ",chromatin organization ,damaged DNA binding ,DNA Repair,firebrick1,3
+MTIF2,P46199,9606.ENSP00000263629,0,nucleoplasm,ribosome disassembly,translation factor activity,Ribosome Biosynthesis,lightgreen,7
+RPL5,P46777,9606.ENSP00000359345,HR,nucleolus ,ribosome biogenesis ,structural constituent of ribosome ,p53 Pathway,tomato,5
+RPL21,P46778,9606.ENSP00000346027,0,ribosome,translation,structural constituent of ribosome,Ribosome Biosynthesis,lightgreen,7
+RPS9,P46781,9606.ENSP00000375632,DSB,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Proteasome,grey,6
+RPS5,P46782,9606.ENSP00000472985,0, cytosolic small ribosomal subunit [GO:0022627],ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RPS10,P46783,9606.ENSP00000481646,NER,nucleolus ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+IQGAP1,P46940,9606.ENSP00000268182,0,ribonucleoprotein complex ,positive regulation of protein kinase activity ,protein kinase binding ,Chromatin Organization,darkviolet,2
+RPL29,P47914,9606.ENSP00000294189,0,ribosome,translation,structural constituent of ribosome,Ribosome Biosynthesis,lightgreen,7
+CCT5,P48643,9606.ENSP00000280326,0,chaperonin-containing T-complex ,positive regulation of telomere maintenance via telomerase ,mRNA binding ,Ribosome Biosynthesis,lightgreen,7
+NES,P48681,9606.ENSP00000357206,0,intermediate filament,G2/M transition of mitotic cell cycle,intermediate filament binding,Cell Cycle regulation,coral1,1
+IDH2,P48735,9606.ENSP00000331897,0,cytosol,2-oxoglutarate metabolic process,isocitrate dehydrogenase activity,Chromatin Organization,darkviolet,2
+POLD2,P49005,9606.ENSP00000480186,DSB,DNA polymerase complex,DNA replication,DNA binding,DNA Repair,firebrick1,3
+RPL34,P49207,9606.ENSP00000378163,NHEJ,nucleolus,translation,structural constituent of ribosome,Ribosome Biosynthesis,lightgreen,7
+FASN,P49327,9606.ENSP00000304592,0, glycogen granule [GO:0042587], fatty acid biosynthetic process,RNA binding ,DNA Repair,firebrick1,3
+CCT3,P49368,9606.ENSP00000295688,0, chaperonin-containing T-complex [GO:0005832],response to unfolded protein ,unfolded protein binding ,DNA Repair,firebrick1,3
+MRPL19,P49406,9606.ENSP00000377486,0,nucleus ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+ALDH7A1,P49419,9606.ENSP00000387123,0, nucleus [GO:0005634],glycolytic process ,aldehyde dehydrogenase (NAD) activity,DNA Repair,firebrick1,3
+PSMB3,P49720,9606.ENSP00000483688,HR,proteasome complex ,proteasomal protein catabolic process ,threonine-type endopeptidase activity ,Proteasome,grey,6
+PSMB2,P49721,9606.ENSP00000362334,HR,proteasome complex ,proteasomal protein catabolic process ,threonine-type endopeptidase activity ,Proteasome,grey,6
+MCM2,P49736,9606.ENSP00000265056,0, MCM complex [GO:0042555],DNA duplex unwinding ,DNA helicase activity ,Cell Cycle regulation,coral1,1
+NUP153,P49790,9606.ENSP00000444029,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+RANBP2,P49792,9606.ENSP00000283195,0,SUMO ligase complex ,nucleocytoplasmic transport ,RNA binding ,Nuclear Pore,deepskyblue3,4
+GSK3B,P49841,9606.ENSP00000324806,0,Wnt signalosome,signal transduction,kinase activity,Cell Cycle regulation,coral1,1
+SEPHS1,P49903,9606.ENSP00000367893,0,nuclear membrane,selenocysteine biosynthetic process,"selenide, water dikinase activity",Cell Cycle regulation,coral1,1
+MRE11A,P49959,9606.ENSP00000325863,HR,Mre11 complex ,double-strand break repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+IDH3A,P50213,9606.ENSP00000299518,0,nucleus ,tricarboxylic acid cycle ,NAD binding ,DNA Repair,firebrick1,3
+EMD,P50402,9606.ENSP00000358857,0,nuclear envelope ,nuclear envelope organization , nuclear envelope ,Chromatin Organization,darkviolet,2
+VASP,P50552,9606.ENSP00000245932,0,actin cytoskeleton [GO:0015629],axon guidance,actin filament organization ,DNA Repair,firebrick1,3
+DNM2,P50570,9606.ENSP00000373905,NER,centrosome ,"transcription, DNA-templated ",protein kinase binding ,Cell Cycle regulation,coral1,1
+CCT8,P50990,9606.ENSP00000286788,HR,chaperonin-containing T-complex ,positive regulation of telomere maintenance via telomerase ,unfolded protein binding ,Nuclear Pore,deepskyblue3,4
+CCT4,P50991,9606.ENSP00000377958,0,chaperonin-containing T-complex ,positive regulation of telomere maintenance via telomerase ,unfolded protein binding ,Chromatin Organization,darkviolet,2
+ANXA11,P50995,9606.ENSP00000398610,0,nuclear envelope,cytokinetic process,calcium ion binding,Cell Cycle regulation,coral1,1
+FXR1,P51114,9606.ENSP00000350170,0,nucleus,"regulation of alternative mRNA splicing, via spliceosome",mRNA 3'-UTR binding,RNA Metabolism,gold,8
+RAB5C,P51148,9606.ENSP00000447053,0, lysosomal membrane [GO:0005765],cell cycle ,GTPase activity ,DNA Repair,firebrick1,3
+DAP3,P51398,9606.ENSP00000357320,0,nucleoplasm ,ribosome biogenesis ,RNA binding ,p53 Pathway,tomato,5
+SMARCA2,P51531,9606.ENSP00000371638,DSB,SWI/SNF comple,chromatin remodeling,DNA-dependent ATPase activity,Chromatin Organization,darkviolet,2
+SMARCA4,P51532,9606.ENSP00000343896,DSB,SWI/SNF complex ,ATP-dependent chromatin remodeling ,transcription corepressor activity ,Chromatin Organization,darkviolet,2
+IDH3G,P51553,9606.ENSP00000217901,0,mitochondrial isocitrate dehydrogenase complex,2-oxoglutarate metabolic process,isocitrate dehydrogenase activity,Chromatin Organization,darkviolet,2
+HCFC1,P51610,9606.ENSP00000309555,DSB,MLL1 complex ,histone H3-K4 methylation ,transcription coactivator activity ,Chromatin Organization,darkviolet,2
+HNRNPA3,P51991,9606.ENSP00000376309,0,messenger ribonucleoprotein complex ,"mRNA splicing, via spliceosome ",mRNA binding ,RNA Metabolism,gold,8
+HNRNPM,P52272,9606.ENSP00000325376,0,spliceosomal complex ,"mRNA splicing, via spliceosome ",mRNA binding ,RNA Metabolism,gold,8
+KPNA2,P52292,9606.ENSP00000438483,0, nucleoplasm [GO:0005654],nucleocytoplasmic transport ,histone deacetylase binding ,DNA Repair,firebrick1,3
+KPNA1,P52294,9606.ENSP00000343701,0,nuclear pore,protein import into nucleus,nuclear import signal receptor activity,Nuclear Pore,deepskyblue3,4
+POLR2H,P52434,9606.ENSP00000415536,HR,"RNA polymerase II, core complex ","transcription, DNA-templated ",single-stranded DNA binding ,Transcription Regulation,slateblue1,9
+NUP98,P52948,9606.ENSP00000316032,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+SLC25A1,P53007,9606.ENSP00000215882,0,nucleus,gluconeogenesis,citrate transmembrane transporter activity,Transcription Regulation,slateblue1,9
+ACLY,P53396,9606.ENSP00000253792,DSB,nucleoplasm ,acetyl-CoA biosynthetic process ,damaged DNA binding ,DNA Repair,firebrick1,3
+EIF5,P55010,9606.ENSP00000216554,0,cytoplasm,ribosome assembly,translation initiation factor activity,Ribosome Biosynthesis,lightgreen,7
+PSMD4,P55036,9606.ENSP00000357876,DSB,proteasome complex ,proteasomal protein catabolic process ,proteasome-activating ATPase activity ,Proteasome,grey,6
+VCP,P55072,9606.ENSP00000351777,0,VCP-NSFL1C complex ,double-strand break repair ,ubiquitin protein ligase binding ,DNA Repair,firebrick1,3
+HADHB,P55084,9606.ENSP00000325136,0,mitochondrial nucleoid,gene expression,"acetyl-CoA C-acetyltransferase activity,GO:0003988~acetyl-CoA C-acyltransferase activity,",Transcription Regulation,slateblue1,9
+ADAR,P55265,9606.ENSP00000357459,0,supraspliceosomal complex ,RNA processing ,RNA binding ,Chromatin Organization,darkviolet,2
+NHP2L1,P55769,9606.ENSP00000383949,DSB,precatalytic spliceosome ,"mRNA splicing, via spliceosome ",RNA binding ,Ribosome Biosynthesis,lightgreen,7
+EIF3B,P55884,9606.ENSP00000354125,NHEJ, eukaryotic translation initiation factor 3 complex [GO:0005852],translational initiation,ribosome binding ,Ribosome Biosynthesis,lightgreen,7
+MARS1,P56192,9606.ENSP00000262027,0,nucleolus,rRNA transcription,aminoacyl-tRNA ligase activity,RNA Metabolism,gold,8
+EIF6,P56537,9606.ENSP00000363559,0,nucleolus,ribosomal subunit export from nucleus,ribosomal large subunit binding,Ribosome Biosynthesis,lightgreen,7
+CTBP2,P56545,9606.ENSP00000311825,0,"transcriptional repressor complex,",negative regulation of cell proliferation,transcription corepressor activity,Transcription Regulation,slateblue1,9
+NUP107,P57740,9606.ENSP00000229179,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+ARPC4,P59998,9606.ENSP00000388169,0, site of double-strand break [GO:0035861],actin filament capping ,,DNA Repair,firebrick1,3
+TPI1,P60174,9606.ENSP00000229270,DSB,nucleus ,glycolytic process ,ubiquitin protein ligase binding ,Chromatin Organization,darkviolet,2
+ACTB,P60709,9606.ENSP00000494750,NER,SWI/SNF complex,regulation of transcription from RNA polymerase II promoter,structural constituent of cytoskeleton,DNA Repair,firebrick1,3
+EIF4A1,P60842,9606.ENSP00000293831,HR, eukaryotic translation initiation factor 4F complex [GO:0016281],translational initiation,RNA helicase activity ,Ribosome Biosynthesis,lightgreen,7
+RPS20,P60866,9606.ENSP00000429374,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Chromatin Organization,darkviolet,2
+PSMA6,P60900,9606.ENSP00000261479,DSB,proteasome complex ,proteasomal protein catabolic process ,threonine-type endopeptidase activity ,Proteasome,grey,6
+CDC42,P60953,9606.ENSP00000383118,0, cytoplasmic ribonucleoprotein granule [GO:0036464],positive regulation of protein kinase activity ,protein kinase binding ,Chromatin Organization,darkviolet,2
+ACTR3,P61158,9606.ENSP00000263238,0, site of double-strand break [GO:0035861],actin filament capping ,damaged DNA binding ,DNA Repair,firebrick1,3
+ACTR2,P61160,9606.ENSP00000367220,0, site of double-strand break [GO:0035861],cell division ,actin binding,DNA Repair,firebrick1,3
+ABCE1,P61221,9606.ENSP00000296577,0,cytosolic ribosome,negative regulation of endoribonuclease activity,endoribonuclease inhibitor activity,RNA Metabolism,gold,8
+RAP1B,P61224,9606.ENSP00000250559,HR,plasma membrane ,cellular response to cAMP ,GTPase activity ,Chromatin Organization,darkviolet,2
+RPS3A,P61247,9606.ENSP00000346050,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RPL26,P61254,9606.ENSP00000463784,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,DNA Repair,firebrick1,3
+RPL15,P61313,9606.ENSP00000309334,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+MAGOH,P61326,9606.ENSP00000360525,NHEJ,nuclear speck ,"mRNA splicing, via spliceosome ",RNA binding ,RNA Metabolism,gold,8
+RPL27,P61353,9606.ENSP00000464813,DSB,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RPL37A,P61513,9606.ENSP00000418082,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RHOA,P61586,9606.ENSP00000400175,HR,nucleus,regulation of actin cytoskeleton organization,protein kinase binding,Cell Cycle regulation,coral1,1
+RPL37,P61927,9606.ENSP00000274242,NHEJ,ribosome,translation,structural constituent of ribosome,Ribosome Biosynthesis,lightgreen,7
+WDR5,P61964,9606.ENSP00000351446,DSB,MLL1 complex ,histone H3-K4 methylation ,methylated histone binding ,Chromatin Organization,darkviolet,2
+HNRNPK,P61978,9606.ENSP00000365458,HR,ribonucleoprotein complex ,"mRNA splicing, via spliceosome ",mRNA binding ,DNA Repair,firebrick1,3
+YWHAG,P61981,9606.ENSP00000306330,0,focal adhesion ,negative regulation of protein kinase activity ,RNA binding ,Chromatin Organization,darkviolet,2
+PPP1CA,P62136,9606.ENSP00000326031,ForkStall,PTW/PP1 phosphatase complex ,cell cycle ,protein phosphatase 1 binding ,Cell Cycle regulation,coral1,1
+PPP1CB,P62140,9606.ENSP00000378769,0,PTW/PP1 phosphatase complex ,cell cycle ,protein phosphatase 1 binding ,Cell Cycle regulation,coral1,1
+PSMC1,P62191,9606.ENSP00000261303,0, proteasome complex [GO:0000502],proteasomal protein catabolic process ,proteasome-activating ATPase activity ,Proteasome,grey,6
+PSMC5,P62195,9606.ENSP00000310572,HR,proteasome complex ,proteasomal protein catabolic process ,proteasome-activating ATPase activity ,Proteasome,grey,6
+RPS8,P62241,9606.ENSP00000379888,DSB,ribonucleoprotein complex ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RPS15A,P62244,9606.ENSP00000318646,0,nucleoplasm ,ribosome biogenesis ,structural constituent of ribosome ,Cell Cycle regulation,coral1,1
+RPS16,P62249,9606.ENSP00000251453,DSB,nucleoplasm ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RPS14,P62263,9606.ENSP00000385958,DSB,nucleolus ,ribosome biogenesis ,structural constituent of ribosome ,Transcription Regulation,slateblue1,9
+RPS23,P62266,9606.ENSP00000296674,0, nucleoplasm [GO:0005654],ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RPS18,P62269,9606.ENSP00000393241,0,nucleolus ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RPS13,P62277,9606.ENSP00000435777,0, cytosolic small ribosomal subunit [GO:0022627],ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RPS11,P62280,9606.ENSP00000270625,ForkStall,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+SNRPE,P62304,9606.ENSP00000400591,0,telomerase holoenzyme complex ,"mRNA splicing, via spliceosome ",RNA binding ,RNA Metabolism,gold,8
+SNRPF,P62306,9606.ENSP00000266735,0,spliceosomal complex ,"mRNA splicing, via spliceosome ",RNA binding ,RNA Metabolism,gold,8
+SNRPD1,P62314,9606.ENSP00000300413,HR,SMN-Sm protein complex ,"mRNA splicing, via spliceosome ",RNA binding ,RNA Metabolism,gold,8
+SNRPD3,P62318,9606.ENSP00000215829,0,SMN-Sm protein complex ,"mRNA splicing, via spliceosome ",telomerase RNA binding ,Chromatin Organization,darkviolet,2
+PSMC6,P62333,9606.ENSP00000401802,0,proteasome complex ,proteasomal protein catabolic process ,proteasome-activating ATPase activity ,Proteasome,grey,6
+RPL7A,P62424,9606.ENSP00000361076,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+ETF1,P62495,9606.ENSP00000353741,DSB,translation release factor complex ,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay ",RNA binding ,Chromatin Organization,darkviolet,2
+RPS4X,P62701,9606.ENSP00000362744,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Transcription Regulation,slateblue1,9
+RPL23A,P62750,9606.ENSP00000389103,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RPS6,P62753,9606.ENSP00000369757,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Cell Cycle regulation,coral1,1
+HIST1H4F,P62805,9606.ENSP00000244537,DSB,CENP-A containing nucleosome [GO:0043505],chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+RAN,P62826,9606.ENSP00000446215,HR,nuclear pore ,nucleocytoplasmic transport ,chromatin binding ,Cell Cycle regulation,coral1,1
+RPL23,P62829,9606.ENSP00000420311,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,p53 Pathway,tomato,5
+RAP1A,P62834,9606.ENSP00000358723,0,cell junction ,cellular response to cAMP ,GTPase activity ,Chromatin Organization,darkviolet,2
+RPS15,P62841,9606.ENSP00000466010,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,p53 Pathway,tomato,5
+RPS24,P62847,9606.ENSP00000414321,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RPS25,P62851,9606.ENSP00000435096,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RPL10A,P62906,9606.ENSP00000363018,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RPL11,P62913,9606.ENSP00000496250,HR,nucleolus ,ribosome biogenesis ,structural constituent of ribosome ,Chromatin Organization,darkviolet,2
+PPIA,P62937,9606.ENSP00000419425,DSB,nucleus ,positive regulation of NF-kappaB transcription factor activity ,unfolded protein binding ,Chromatin Organization,darkviolet,2
+FKBP1A,P62942,9606.ENSP00000383003,0,ryanodine receptor complex ,protein refolding ,unfolded protein binding ,Chromatin Organization,darkviolet,2
+RPS27A,P62979,9606.ENSP00000272317,HR, cytosolic small ribosomal subunit [GO:0022627],ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+RAC1,P63000,9606.ENSP00000348461,0,NADPH oxidase complex ,positive regulation of DNA replication ,histone deacetylase binding ,Cell Cycle regulation,coral1,1
+GNAI1,P63096,9606.ENSP00000497260,0,nucleolus,protein folding,GTPase activity,UPR,maroon,10
+EIF5A,P63241,9606.ENSP00000336702,0,nuclear pore ,"transcription, DNA-templated ",RNA binding ,p53 Pathway,tomato,5
+RACK1,P63244,9606.ENSP00000426909,DSB,IRE1-RACK1-PP2A complex ,cell cycle ,RNA binding ,Cell Cycle regulation,coral1,1
+ACTG1,P63261,9606.ENSP00000458162,NER,filamentous actin ,"transcription, DNA-templated ",ubiquitin protein ligase binding ,Transcription Regulation,slateblue1,9
+YBX1,P67809,9606.ENSP00000361626,0,CRD-mediated mRNA stability complex ,"transcription, DNA-templated ",chromatin binding ,Transcription Regulation,slateblue1,9
+CSNK2B,P67870,9606.ENSP00000365042,0,protein kinase CK2 complex ,Wnt signaling pathway ,protein kinase regulator activity ,DNA Repair,firebrick1,3
+EEF1A1,P68104,9606.ENSP00000339063,0, eukaryotic translation elongation factor 1 complex [GO:0005853],translational initiation,ribosome binding ,Ribosome Biosynthesis,lightgreen,7
+TUBA1B,P68363,9606.ENSP00000336799,DSB,microtubule ,microtubule cytoskeleton organization ,ubiquitin protein ligase binding ,Cell Cycle regulation,coral1,1
+H3-3B,P68431,9606.ENSP00000352252,0,nucleosome,nucleosome assembly,structural constituent of chromatin,Chromatin Organization,darkviolet,2
+NOP14,P78316,9606.ENSP00000405068,0,small-subunit processome,rRNA processing,RNA binding,Ribosome Biosynthesis,lightgreen,7
+GTF2I,P78347,9606.ENSP00000460070,0,nucleoplasm ,"transcription, DNA-templated ",DNA binding ,Transcription Regulation,slateblue1,9
+RAE1,P78406,9606.ENSP00000379181,0,nuclear pore ,"transcription, DNA-templated ",RNA binding ,Cell Cycle regulation,coral1,1
+PRKDC,P78527,9606.ENSP00000313420,NHEJ,DNA-dependent protein kinase complex ,double-strand break repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+ADARB1,P78563,9606.ENSP00000353920,0,nucleolus,RNA processing,adenosine deaminase activity,RNA Metabolism,gold,8
+BASP1,P80723,9606.ENSP00000319281,0,chromatin,negative regulation of transcription,~transcription corepressor activity,Transcription Regulation,slateblue1,9
+ARF1,P84077,9606.ENSP00000440005,0, focal adhesion [GO:0005925], intracellular protein transport,GTPase activity ,p53 Pathway,tomato,5
+ERH,P84090,9606.ENSP00000451080,HR,methylosome ,cell cycle ,RNA binding ,Cell Cycle regulation,coral1,1
+RHOG,P84095,9606.ENSP00000339467,0,cell cortex ,"transcription, DNA-templated ",protein kinase binding ,Transcription Regulation,slateblue1,9
+RPL19,P84098,9606.ENSP00000225430,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+ATP2C1,P98194,9606.ENSP00000421326,0,endoplasmic reticulum,calcium ion transport,calcium-transporting ATPase activity,Cell Cycle regulation,coral1,1
+HNRNPU,Q00839,9606.ENSP00000491215,0,telomerase holoenzyme complex ,chromatin organization ,transcription corepressor activity ,Chromatin Organization,darkviolet,2
+SPTBN1,Q01082,9606.ENSP00000349259,NHEJ,nucleolus ,actin filament capping ,RNA binding ,Cell Cycle regulation,coral1,1
+SET,Q01105,9606.ENSP00000361777,DSB,chromatin ,chromatin organization ,chromatin binding ,Chromatin Organization,darkviolet,2
+FABP5,Q01469,9606.ENSP00000297258,0,nucleoplasm ,lipid metabolic process ,lipid binding ,Cell Cycle regulation,coral1,1
+FLI1,Q01543,9606.ENSP00000433488,ForkStall,chromatin ,"transcription, DNA-templated ",chromatin binding ,DNA Repair,firebrick1,3
+SLC7A5,Q01650,9606.ENSP00000261622,0,amino acid transport complex [GO:1990184],amino acid import across plasma membrane,antiporter activity,Cell Cycle regulation,coral1,1
+EXOSC10,Q01780,9606.ENSP00000366135,HR,exosome (RNase complex) ,rRNA processing ,3'-5'-exoribonuclease activity ,Ribosome Biosynthesis,lightgreen,7
+EWSR1,Q01844,9606.ENSP00000400142,0,nucleolus ,rRNA processing ,transcription cofactor activity ,Transcription Regulation,slateblue1,9
+OGDH,Q02218,9606.ENSP00000388183,HR,oxoglutarate dehydrogenase complex ,2-oxoglutarate metabolic process ,heat shock protein binding ,Chromatin Organization,darkviolet,2
+RPL18A,Q02543,9606.ENSP00000222247,HR,ribosome,translation,structural constituent of ribosome,Ribosome Biosynthesis,lightgreen,7
+RPL6,Q02878,9606.ENSP00000403172,HR,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+SLC25A11,Q02978,9606.ENSP00000225665,0,nucleus,alpha-ketoglutarate transport,succinate transmembrane transporter activity,Chromatin Organization,darkviolet,2
+LMNB2,Q03252,9606.ENSP00000327054,0,nuclear envelope ,nuclear envelope organization ,lamin binding ,Chromatin Organization,darkviolet,2
+CEBPZ,Q03701,9606.ENSP00000234170,DSB,CCAAT-binding factor complex ,"transcription, DNA-templated ",transcription coactivator activity ,Transcription Regulation,slateblue1,9
+KRT17,Q04695,9606.ENSP00000308452,HR, cytoskeleton [GO:0005856],actin filament capping ,actin filament organization ,DNA Repair,firebrick1,3
+SSBP1,Q04837,9606.ENSP00000419665,0,nucleus ,DNA duplex unwinding ,chromatin binding ,DNA Repair,firebrick1,3
+CSTF1,Q05048,9606.ENSP00000217109,0,mRNA cleavage stimulating factor complex,mRNA 3'-end processing,RNA binding,RNA Metabolism,gold,8
+SRSF11,Q05519,9606.ENSP00000359988,NER,nuclear speck ,"mRNA splicing, via spliceosome ",RNA binding ,RNA Metabolism,gold,8
+CALD1,Q05682,9606.ENSP00000354826,0,cytoskeleton,actin filament bundle assembly,actin binding,Cell Cycle regulation,coral1,1
+EXOSC9,Q06265,9606.ENSP00000368984,DSB,exosome (RNase complex) ,rRNA processing ,3'-5'-exoribonuclease activity ,Transcription Regulation,slateblue1,9
+PRDX1,Q06830,9606.ENSP00000262746,BER,nucleus ,cell cycle ,RNA binding ,DNA Repair,firebrick1,3
+RPL18,Q07020,9606.ENSP00000447001,0,cytosolic large ribosomal subunit ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+C1QBP,Q07021,9606.ENSP00000225698,NHEJ,nucleolus ,"mRNA splicing, via spliceosome ",transcription corepressor activity ,Ribosome Biosynthesis,lightgreen,7
+KHDRBS1,Q07666,9606.ENSP00000313829,0,nucleoplasm ,"transcription, DNA-templated ",mRNA binding ,Cell Cycle regulation,coral1,1
+MCL1,Q07820,9606.ENSP00000358022,DSB,Bcl-2 family protein complex,regulation of apoptotic process,BH3 domain binding,Cell Cycle regulation,coral1,1
+DHX9,Q08211,9606.ENSP00000356520,NER,RISC complex ,DNA duplex unwinding ,transcription coactivator activity ,DNA Repair,firebrick1,3
+CRYZ,Q08257,9606.ENSP00000399805,0,GO:0005829~cytosol,xenobiotic catabolic process,mRNA 3'-UTR binding,RNA Metabolism,gold,8
+GOLGA2,Q08379,9606.ENSP00000416097,0, COPII-coated ER to Golgi transport vesicle [GO:0030134],cell division ,protein kinase binding ,Cell Cycle regulation,coral1,1
+SSRP1,Q08945,9606.ENSP00000278412,DSB,FACT complex ,chromatin organization ,chromatin binding ,DNA Repair,firebrick1,3
+NSUN2,Q08J23,9606.ENSP00000264670,0,chromatoid body ,cell division ,methyltransferase activity ,Chromatin Organization,darkviolet,2
+RBBP4,Q09028,9606.ENSP00000362592,DSB,NuRD complex ,ATP-dependent chromatin remodeling ,histone deacetylase binding ,Chromatin Organization,darkviolet,2
+AHNAK,Q09666,9606.ENSP00000367263,0,actin cytoskeleton [GO:0015629],RNA splicing ,RNA binding ,DNA Repair,firebrick1,3
+CPSF1,Q10570,9606.ENSP00000484669,HR,mRNA cleavage and polyadenylation specificity factor complex ,mRNA polyadenylation ,mRNA binding ,RNA Metabolism,gold,8
+NUP160,Q12769,9606.ENSP00000367721,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+TBL3,Q12788,9606.ENSP00000454836,0,nucleolus,rRNA processing,RNA binding,Ribosome Biosynthesis,lightgreen,7
+ASPH,Q12797,9606.ENSP00000368767,0,calcium channel complex ,"transcription, DNA-templated ",calcium ion binding ,Transcription Regulation,slateblue1,9
+SMARCB1,Q12824,9606.ENSP00000340883,DSB,SWI/SNF complex,nucleosome disassembl,p53 binding,Chromatin Organization,darkviolet,2
+CDC20,Q12834,9606.ENSP00000361540,0,anaphase-promoting complex,regulation of mitotic cell cycle,anaphase-promoting complex binding,Cell Cycle regulation,coral1,1
+GRSF1,Q12849,9606.ENSP00000254799,0,nucleoplasm,positive regulation of mitochondrial RNA catabolic process,RNA binding,RNA Metabolism,gold,8
+NFIA,Q12857,9606.ENSP00000360231,0,chromatin,regulation of transcription,transcriptional activator activity,Transcription Regulation,slateblue1,9
+SF3A3,Q12874,9606.ENSP00000362110,HR,spliceosomal complex ,"mRNA splicing, via spliceosome ",RNA binding ,RNA Metabolism,gold,8
+TP53BP1,Q12888,9606.ENSP00000371475,NHEJ,site of double-strand break,double-strand break repair via nonhomologous end joining,p53 binding,DNA Repair,firebrick1,3
+ILF2,Q12905,9606.ENSP00000355011,NHEJ,ribonucleoprotein complex ,"transcription, DNA-templated ",DNA binding ,Transcription Regulation,slateblue1,9
+ILF3,Q12906,9606.ENSP00000404121,0,ribonucleoprotein complex ,"transcription, DNA-templated ",DNA binding ,Transcription Regulation,slateblue1,9
+TRAP1,Q12931,9606.ENSP00000246957,HR,nucleoplasm ,chaperone-mediated protein folding ,protein kinase binding ,Transcription Regulation,slateblue1,9
+CSTF3,Q12996,9606.ENSP00000315791,0,nucleoplasm ,mRNA polyadenylation ,mRNA binding ,RNA Metabolism,gold,8
+FLII,Q13045,9606.ENSP00000324573,0,nucleus,actin cytoskeleton organization,actin binding,Cell Cycle regulation,coral1,1
+ACACA,Q13085,9606.ENSP00000483300,SSB,actin cytoskeleton ,acetyl-CoA biosynthetic process ,damaged DNA binding ,Cell Cycle regulation,coral1,1
+TARDBP,Q13148,9606.ENSP00000240185,DSB,nucleoplasm ,3'-UTR-mediated mRNA destabilization ,RNA binding ,Cell Cycle regulation,coral1,1
+HNRNPA0,Q13151,9606.ENSP00000316042,0,nucleoplasm ,3'-UTR-mediated mRNA stabilization ,mRNA binding ,Cell Cycle regulation,coral1,1
+AIMP2,Q13155,9606.ENSP00000223029,0,aminoacyl-tRNA synthetase multienzyme complex [GO:0017101],RNA processing ,RNA binding ,p53 Pathway,tomato,5
+PRDX4,Q13162,9606.ENSP00000368646,0,nucleus,response to oxidative stress,peroxidase activity,Transcription Regulation,slateblue1,9
+CBX3,Q13185,9606.ENSP00000336687,0,chromatin lock complex ,chromatin organization ,histone methyltransferase binding ,DNA Repair,firebrick1,3
+PSMD2,Q13200,9606.ENSP00000310129,0, proteasome complex [GO:0000502],proteasomal protein catabolic process ,proteasome-activating ATPase activity ,Proteasome,grey,6
+SRSF6,Q13247,9606.ENSP00000244020,0,nuclear speck ,"mRNA splicing, via spliceosome ",mRNA binding ,RNA Metabolism,gold,8
+TRIM28,Q13263,9606.ENSP00000253024,DSB,RNA polymerase II transcription regulator complex ,chromatin organization ,transcription corepressor activity ,DNA Repair,firebrick1,3
+G3BP1,Q13283,9606.ENSP00000377681,0,ribonucleoprotein complex ,DNA duplex unwinding ,RNA helicase activity ,DNA Repair,firebrick1,3
+PABPC4,Q13310,9606.ENSP00000361949,0,ribonucleoprotein complex ,rRNA processing ,mRNA binding ,RNA Metabolism,gold,8
+MTA1,Q13330,9606.ENSP00000333633,0,NuRD complex ,ATP-dependent chromatin remodeling ,histone deacetylase binding ,DNA Repair,firebrick1,3
+DYNC1I2,Q13409,9606.ENSP00000380308,0,dynein complex,transport along microtubule,dynein heavy chain binding,Cell Cycle regulation,coral1,1
+ORC2,Q13416,9606.ENSP00000234296,MMR,origin recognition complex ,DNA duplex unwinding ,DNA replication origin binding ,Transcription Regulation,slateblue1,9
+TCOF1,Q13428,9606.ENSP00000367028,0,nucleolus ,ribosome biogenesis ,RNA binding ,DNA Repair,firebrick1,3
+SF3B2,Q13435,9606.ENSP00000318861,NHEJ,spliceosomal complex ,"mRNA splicing, via spliceosome ",RNA binding ,RNA Metabolism,gold,8
+PICALM,Q13492,9606.ENSP00000377015,0,nucleus,negative regulation of gene expression,"phosphatidylinositol-4,5-bisphosphate binding",Transcription Regulation,slateblue1,9
+SQSTM1,Q13501,9606.ENSP00000374455,0,PML body,ubiquitin-dependent protein catabolic process,ubiquitin binding,UPR,maroon,10
+TUBB3,Q13509,9606.ENSP00000320295,0,"microtubule cytoskeleton,GO:0030027~lamellipodium,GO:0030175~filopodium,GO:0030424~axon,GO:0030425~dendrite,GO:0030426~growth cone,GO:0043025~neuronal cell body,GO:0045171~intercellular bridge,GO:0070062~extracellular exosome,GO:0071944~cell periphery,GO:0072686~mitotic spindle,",mitotic cell cycle,structural constituent of cytoskeleton,Cell Cycle regulation,coral1,1
+HDAC1,Q13547,9606.ENSP00000362649,0,NuRD complex ,histone deacetylation ,histone deacetylase binding ,Chromatin Organization,darkviolet,2
+SNW1,Q13573,9606.ENSP00000261531,HR,spliceosomal complex ,histone H3-K4 methylation ,transcription coactivator activity ,DNA Repair,firebrick1,3
+IQGAP2,Q13576,9606.ENSP00000274364,0,cytoplasm,regulation of GTPase activity,small GTPase binding,Cell Cycle regulation,coral1,1
+PWP1,Q13610,9606.ENSP00000387365,0,nucleolus,histone H4-K20 trimethylation,H4K20me3 modified histone binding,Transcription Regulation,slateblue1,9
+SPTAN1,Q13813,9606.ENSP00000361824,0,spectrin ,actin filament capping ,structural constituent of cytoskeleton ,DNA Repair,firebrick1,3
+GNL2,Q13823,9606.ENSP00000362153,DSB,nucleolus ,ribosome biogenesis ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+PKP1,Q13835,9606.ENSP00000263946,DSB,messenger ribonucleoprotein complex ,"transcription, DNA-templated ",lamin binding ,DNA Repair,firebrick1,3
+DDX39B,Q13838,9606.ENSP00000416269,HR,spliceosomal complex ,"mRNA splicing, via spliceosome ",RNA helicase activity ,DNA Repair,firebrick1,3
+EXOSC2,Q13868,9606.ENSP00000361433,DSB,exosome (RNase complex) ,RNA processing ,3'-5'-exoribonuclease activity ,Ribosome Biosynthesis,lightgreen,7
+HNRNPD,Q14103,9606.ENSP00000313199,HR,mCRD-mediated mRNA stability complex ,"transcription, DNA-templated ",histone deacetylase binding ,Chromatin Organization,darkviolet,2
+BOP1,Q14137,9606.ENSP00000455106,0,PeBoW complex,rRNA processing,RNA binding,RNA Metabolism,gold,8
+URB2,Q14146,9606.ENSP00000258243,0,nucleolus,ribosome biogenesis,0,Ribosome Biosynthesis,lightgreen,7
+EIF3A,Q14152,9606.ENSP00000358140,NHEJ, eukaryotic translation initiation factor 3 complex [GO:0005852],translational initiation,ribosome binding ,Ribosome Biosynthesis,lightgreen,7
+UBAP2L,Q14157,9606.ENSP00000389445,0,PcG protein complex ,stress granule assembly ,RNA binding ,Cell Cycle regulation,coral1,1
+SCRIB,Q14160,9606.ENSP00000349486,BER,Scrib-APC-beta-catenin complex ,"transcription, DNA-templated ",cadherin binding ,Cell Cycle regulation,coral1,1
+GNA13,Q14344,9606.ENSP00000400717,0,nucleus,Rho protein signal transduction,G-protein coupled receptor binding,Cell Cycle regulation,coral1,1
+CAPRIN1,Q14444,9606.ENSP00000340329,0,P-body,negative regulation of translation,mRNA binding,RNA Metabolism,gold,8
+RBM39,Q14498,9606.ENSP00000253363,NER,nuclear speck ,RNA processing ,RNA binding ,RNA Metabolism,gold,8
+HLTF,Q14527,9606.ENSP00000308944,ForkStall,RNA polymerase II transcription factor complex,protein ubiquitination,ubiquitin protein ligase activity,Chromatin Organization,darkviolet,2
+MCM6,Q14566,9606.ENSP00000264156,HR,MCM complex ,DNA duplex unwinding ,DNA helicase activity ,DNA Repair,firebrick1,3
+MDC1,Q14676,9606.ENSP00000365588,DSB,chromosome ,DNA repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+USP10,Q14694,9606.ENSP00000457411,0,nucleoplasm ,DNA repair ,p53 binding ,DNA Repair,firebrick1,3
+LBR,Q14739,9606.ENSP00000339883,0,nuclear envelope,cholesterol biosynthetic process,lamin binding,Nuclear Pore,deepskyblue3,4
+KIF22,Q14807,9606.ENSP00000160827,DSB,kinesin complex,mitotic cell cycle,DNA binding,Cell Cycle regulation,coral1,1
+LASP1,Q14847,9606.ENSP00000325240,0,cytoskeleton,\ion transmembrane transport,actin filament binding,Cell Cycle regulation,coral1,1
+ZNF638,Q14966,9606.ENSP00000386433,0,nucleolus ,rRNA processing ,transcription cofactor activity ,RNA Metabolism,gold,8
+KPNB1,Q14974,9606.ENSP00000290158,0,nuclear pore ,nucleocytoplasmic transport ,RNA binding ,Cell Cycle regulation,coral1,1
+NOLC1,Q14978,9606.ENSP00000385410,DSB,box C/D RNP complex ,rRNA processing ,RNA binding ,Cell Cycle regulation,coral1,1
+NUMA1,Q14980,9606.ENSP00000377298,0,chromosome ,cell cycle ,microtubule binding ,Cell Cycle regulation,coral1,1
+SEPT2,Q15019,9606.ENSP00000479861,0,septin complex ,cell cycle ,GTPase activity ,Cell Cycle regulation,coral1,1
+SART3,Q15020,9606.ENSP00000228284,0,ASAP complex ,chromatin organization ,histone binding ,Chromatin Organization,darkviolet,2
+EXOSC7,Q15024,9606.ENSP00000265564,0,nuclear exosome,RNA catabolic process,exoribonuclease activity,RNA Metabolism,gold,8
+EFTUD2,Q15029,9606.ENSP00000392094,0,spliceosomal complex ,"mRNA splicing, via spliceosome ",RNA binding ,RNA Metabolism,gold,8
+LARS2,Q15031,9606.ENSP00000498867,0,mitochondrion,tRNA aminoacylation for protein translation,aminoacyl-tRNA editing activity,Ribosome Biosynthesis,lightgreen,7
+KARS,Q15046,9606.ENSP00000325448,0,aminoacyl-tRNA synthetase multienzyme complex ,"transcription, DNA-templated ",RNA binding ,p53 Pathway,tomato,5
+RRS1,Q15050,9606.ENSP00000322396,DSB,condensed nuclear chromosome ,chromatin organization ,RNA binding ,Cell Cycle regulation,coral1,1
+EIF4H,Q15056,9606.ENSP00000265753,0, eukaryotic translation initiation factor 4F complex [GO:0016281],translational initiation,ribosome binding ,Ribosome Biosynthesis,lightgreen,7
+WDR43,Q15061,9606.ENSP00000384302,DSB,chromatin ,chromatin organization ,RNA polymerase II core binding ,Transcription Regulation,slateblue1,9
+NONO,Q15233,9606.ENSP00000276079,0,RNA polymerase II transcription regulator complex ,"mRNA splicing, via spliceosome ",chromatin binding ,DNA Repair,firebrick1,3
+PWP2,Q15269,9606.ENSP00000291576,0,Pwp2p-containing subcomplex of 90S preribosome ,ribosome biogenesis ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+RNPS1,Q15287,9606.ENSP00000457723,0,ASAP complex ,chromatin organization ,mRNA binding ,RNA Metabolism,gold,8
+PCBP1,Q15365,9606.ENSP00000305556,NER,nuclear speck ,"transcription, DNA-templated ",mRNA binding ,RNA Metabolism,gold,8
+PCBP2,Q15366,9606.ENSP00000352438,DSB,nucleoplasm ,"transcription, DNA-templated ",ubiquitin protein ligase binding ,RNA Metabolism,gold,8
+DHCR24,Q15392,9606.ENSP00000360316,0,nucleus,negative regulation of cell proliferation,delta24(24-1) sterol reductase activity,Cell Cycle regulation,coral1,1
+SF3B3,Q15393,9606.ENSP00000305790,DSB,SAGA complex ,"mRNA splicing, via spliceosome ",mRNA binding ,Cell Cycle regulation,coral1,1
+SF3A2,Q15428,9606.ENSP00000221494,HR, spliceosomal complex,"mRNA splicing, via spliceosome ",mRNA binding ,RNA Metabolism,gold,8
+SF3A1,Q15459,9606.ENSP00000215793,HR,spliceosomal complex ,"mRNA splicing, via spliceosome ",mRNA binding ,RNA Metabolism,gold,8
+SF1,Q15637,9606.ENSP00000366604,HR,spliceosomal complex ,"mRNA splicing, via spliceosome ",transcription corepressor activity ,Transcription Regulation,slateblue1,9
+MED1,Q15648,9606.ENSP00000300651,HR,mediator complex ,"transcription, DNA-templated ",transcription coactivator activity ,DNA Repair,firebrick1,3
+JMJD1C,Q15652,9606.ENSP00000382204,HR,histone deacetylase complex ,chromatin organization ,chromatin binding ,Chromatin Organization,darkviolet,2
+ELAVL1,Q15717,9606.ENSP00000385269,RLOOPS,ribonucleoprotein complex ,mRNA stabilization ,protein kinase binding ,Nuclear Pore,deepskyblue3,4
+SEPT7,Q16181,9606.ENSP00000413507,0,kinetochore ,cell cycle ,GTPase activity ,Cell Cycle regulation,coral1,1
+ADRM1,Q16186,9606.ENSP00000478877,0,proteasome complex,proteasome-mediated ubiquitin-dependent protein catabolic process,endopeptidase activator activity,Proteasome,grey,6
+DDB1,Q16531,9606.ENSP00000301764,NER,Cul4-RING E3 ubiquitin ligase complex ,DNA repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+RBBP7,Q16576,9606.ENSP00000369424,0,NuRD complex ,histone deacetylation ,chromatin binding ,Chromatin Organization,darkviolet,2
+FSCN1,Q16658,9606.ENSP00000371798,0,actin cytoskeleton [GO:0015629],actin filament capping ,actin filament organization ,DNA Repair,firebrick1,3
+IFI16,Q16666,9606.ENSP00000357113,DSB,nuclear speck,negative regulation of transcription from RNA polymerase II promote,transcription factor binding,Transcription Regulation,slateblue1,9
+DECR1,Q16698,9606.ENSP00000220764,0,nucleus,fatty acid beta-oxidation,"2,4-dienoyl-CoA reductase (NADPH) activity",UPR,maroon,10
+UBE2S,Q16763,9606.ENSP00000264552,0,nucleus,protein polyubiquitination,ubiquitin-protein transferase activity,Chromatin Organization,darkviolet,2
+HIST2H2AC,Q16777,9606.ENSP00000332194,0,nucleosome ,chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+HIST2H2BE,Q16778,9606.ENSP00000358151,DSB,nucleosome ,chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+HADH,Q16836,9606.ENSP00000474560,0,nucleoplasm,fatty acid beta-oxidation,3-hydroxyacyl-CoA dehydrogenase activit,Cell Cycle regulation,coral1,1
+SMU1,Q2TAY7,9606.ENSP00000380336,0,nuclear speck ,"mRNA splicing, via spliceosome ",mRNA binding ,Cell Cycle regulation,coral1,1
+TUBB8,Q3ZCM7,9606.ENSP00000456206,0,microtubule cytoskeleton ,microtubule cytoskeleton organization ,GTPase activity ,Cell Cycle regulation,coral1,1
+TIMM50,Q3ZCQ8,9606.ENSP00000445806,0,nuclear speck,release of cytochrome c from mitochondria,protein tyrosine phosphatase activity,RNA Metabolism,gold,8
+GLYR1,Q49A26,9606.ENSP00000322716,0,nucleosome ,positive regulation of histone acetylation ,methylated histone binding ,Chromatin Organization,darkviolet,2
+FAM98B,Q52LJ0,9606.ENSP00000380734,0,nucleus,sitive regulation of cell proliferation,GO:0003723~RNA binding,RNA Metabolism,gold,8
+USP39,Q53GS9,9606.ENSP00000312981,0,spliceosomal complex,"mRNA splicing, via spliceosome",thiol-dependent ubiquitin-specific protease activity,RNA Metabolism,gold,8
+ZNF326,Q5BKZ1,9606.ENSP00000340796,0,DBIRD complex,RNA splicing,RNA polymerase II core binding,RNA Metabolism,gold,8
+EMC4,Q5J8M3,9606.ENSP00000267750,0,endoplasmic reticulum membrane,apoptotic process,membrane insertase activity,Cell Cycle regulation,coral1,1
+TOR1AIP1,Q5JTV8,9606.ENSP00000435365,0,nuclear envelope ,nuclear envelope organization ,lamin binding ,Cell Cycle regulation,coral1,1
+DNTTIP2,Q5QJE6,9606.ENSP00000411010,DSB,chromosome ,RNA processing ,RNA binding ,Transcription Regulation,slateblue1,9
+EXOSC6,Q5RKV6,9606.ENSP00000398597,0,nuclear exosome (RNase complex),nuclear mRNA surveillance,RNA binding,RNA Metabolism,gold,8
+NUP188,Q5SRE5,9606.ENSP00000361658,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+HP1BP3,Q5SSJ5,9606.ENSP00000403039,0, nuclear speck [GO:0016607],chromatin organization ,chromatin binding ,Chromatin Organization,darkviolet,2
+NOL9,Q5SY16,9606.ENSP00000366934,DSB,nucleolus ,RNA processing ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+SPOUT1,Q5T280,9606.ENSP00000354812,0,kinetochore ,cell cycle ,methyltransferase activity ,Chromatin Organization,darkviolet,2
+MRPL2,Q5T653,9606.ENSP00000373404,0,nucleoplasm ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+H3-7,Q5TEC6,9606.ENSP00000499501,0,nucleosome,chromatin remodeling,structural constituent of chromatin,Chromatin Organization,darkviolet,2
+RPRD2,Q5VT52,9606.ENSP00000358064,0,"RNA polymerase II, holoenzyme ","transcription, DNA-templated ",RNA polymerase II core binding ,RNA Metabolism,gold,8
+ARID2,Q68CP9,9606.ENSP00000335044,MMR,SWI/SNF complex ,nucleosome disassembly ,DNA binding ,DNA Repair,firebrick1,3
+DHRS7B,Q6IAN0,9606.ENSP00000378887,0,transcription factor complex,"negative regulation of transcription, DNA-templated","transcription corepressor activity,",Transcription Regulation,slateblue1,9
+RETSAT,Q6NUM9,9606.ENSP00000295802,0,nuclear membrane,retinol metabolic process,"all-trans-retinol 13,14-reductase activity",Nuclear Pore,deepskyblue3,4
+CAVIN1,Q6NZI2,9606.ENSP00000349541,0,nucleoplasm ,rRNA transcription ,RNA binding ,DNA Repair,firebrick1,3
+RPUSD3,Q6P087,9606.ENSP00000373331,0,ribonucleoprotein granule,mRNA processing,RNA binding,RNA Metabolism,gold,8
+PRPF8,Q6P2Q9,9606.ENSP00000460348,HR,nuclear speck ,"mRNA splicing, via spliceosome ",mRNA binding ,DNA Repair,firebrick1,3
+SFXN4,Q6P4A7,9606.ENSP00000347924,0,nucleoplasm,amino acid transport,transmembrane transporter activity,Cell Cycle regulation,coral1,1
+ALKBH5,Q6P6C2,9606.ENSP00000382091,HR,nucleus,mRNA processing,oxidative RNA demethylase activity,RNA Metabolism,gold,8
+CTR9,Q6PD62,9606.ENSP00000355013,0,Cdc73/Paf1 complex ,histone H3-K4 methylation ,RNA polymerase II core binding ,Chromatin Organization,darkviolet,2
+DARS2,Q6PI48,9606.ENSP00000497569,0,nucleoplasm,aspartyl-tRNA aminoacylation,tRNA binding,RNA Metabolism,gold,8
+NCEH1,Q6PIU2,9606.ENSP00000442464,0,endoplasmic reticulum membrane,protein dephosphorylation,"serine hydrolase activity,",UPR,maroon,10
+ZC3H14,Q6PJT7,9606.ENSP00000251038,0,ribonucleoprotein complex ,RNA processing ,mRNA binding ,RNA Metabolism,gold,8
+LARP1,Q6PKG0,9606.ENSP00000336721,0,polysomal ribosome,ell proliferation,ribosomal small subunit binding,Ribosome Biosynthesis,lightgreen,7
+WDR74,Q6RFH5,9606.ENSP00000432119,DSB,nucleoplasm ,rRNA processing ,rRNA binding ,Ribosome Biosynthesis,lightgreen,7
+WDR82,Q6UXN9,9606.ENSP00000296490,DSB,PTW/PP1 phosphatase complex ,histone H3-K4 methylation ,chromatin binding ,Chromatin Organization,darkviolet,2
+QSOX2,Q6ZRP7,9606.ENSP00000351536,0,nucleus,protein folding,protein disulfide isomerase activity,UPR,maroon,10
+FAM83H,Q6ZRV2,9606.ENSP00000373565,0,cytoskeleton,signal transduction,protein kinase binding,Transcription Regulation,slateblue1,9
+USP30,Q70CQ3,9606.ENSP00000257548,0,nucleus,ubiquitin-dependent protein catabolic process,ubiquitinyl hydrolase activity,UPR,maroon,10
+HIST2H3D,Q71DI3,9606.ENSP00000333277,0,nucleosome ,chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+H2AFV,Q71UI9,9606.ENSP00000308405,0, nucleosome [GO:0000786],chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+SND1,Q7KZF4,9606.ENSP00000346762,HR,RISC complex ,"transcription, DNA-templated ",nuclease activity ,Cell Cycle regulation,coral1,1
+DDX46,Q7L014,9606.ENSP00000416534,0,nuclear speck ,"mRNA splicing, via spliceosome ",RNA helicase activity ,RNA Metabolism,gold,8
+DHX30,Q7L2E3,9606.ENSP00000405620,0,ribonucleoprotein complex ,RNA processing ,RNA helicase activity ,Ribosome Biosynthesis,lightgreen,7
+ZC3HAV1,Q7Z2W4,9606.ENSP00000242351,0,nucleus ,RNA processing ,RNA binding ,Transcription Regulation,slateblue1,9
+NUP54,Q7Z3B4,9606.ENSP00000264883,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+TAF8,Q7Z7C8,9606.ENSP00000362068,0,transcription factor TFIID complex,positive regulation of transcription initiation from RNA polymerase II promoter,protein binding,Transcription Regulation,slateblue1,9
+MRPL10,Q7Z7H8,9606.ENSP00000290208,0, mitochondrial large ribosomal subunit [GO:0005762],ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+ZBTB33,Q86T24,9606.ENSP00000314153,0,chromatin ,"transcription, DNA-templated ",transcription corepressor activity ,Transcription Regulation,slateblue1,9
+PABPN1,Q86U42,9606.ENSP00000216727,HR,ribonucleoprotein complex ,RNA processing ,RNA binding ,Chromatin Organization,darkviolet,2
+THOC6,Q86W42,9606.ENSP00000326531,SSB,THO complex ,"mRNA splicing, via spliceosome ",RNA binding ,Nuclear Pore,deepskyblue3,4
+CHD1L,Q86WJ1,9606.ENSP00000358262,NER,site of double-strand break,chromatin remodeling,nucleosome binding,Chromatin Organization,darkviolet,2
+ANKLE2,Q86XL3,9606.ENSP00000350686,0,membrane,cell cycle,protein phosphatase 2A binding,Cell Cycle regulation,coral1,1
+DDX42,Q86XP3,9606.ENSP00000464050,DSB,nuclear speck ,regulation of apoptotic process ,RNA helicase activity ,RNA Metabolism,gold,8
+GATAD2A,Q86YP4,9606.ENSP00000353463,HR,NuRD complex ,histone deacetylation ,histone deacetylase binding ,Chromatin Organization,darkviolet,2
+MISP,Q8IVT2,9606.ENSP00000215582,HR,spindle pole centrosome ,cell division ,actin filament binding ,Cell Cycle regulation,coral1,1
+WDR75,Q8IWA0,9606.ENSP00000314193,DSB,nucleolus ,rRNA processing ,RNA binding ,Transcription Regulation,slateblue1,9
+ITPRIP,Q8IWB1,9606.ENSP00000278071,0,nuclear outer membrane,negative regulation of extrinsic apoptotic signaling pathway via death domain receptors,protein kinase inhibitor activity,Cell Cycle regulation,coral1,1
+CCAR1,Q8IX12,9606.ENSP00000265872,NER,nuclear envelope lumen ,"transcription, DNA-templated ",transcription corepressor activity ,Cell Cycle regulation,coral1,1
+FTSJ3,Q8IY81,9606.ENSP00000396673,DSB,nucleolus ,rRNA methylation ,methyltransferase activity ,Ribosome Biosynthesis,lightgreen,7
+PELP1,Q8IZL8,9606.ENSP00000301396,DSB,MLL1 complex ,histone H3-K4 methylation ,transcription factor binding ,Transcription Regulation,slateblue1,9
+CCAR2,Q8N163,9606.ENSP00000310670,NHEJ,DBIRD complex ,"transcription, DNA-templated ",RNA polymerase II core binding ,DNA Repair,firebrick1,3
+NUP93,Q8N1F7,9606.ENSP00000310668,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+HIST3H2BB,Q8N257,9606.ENSP00000479284,DSB,nucleosome ,chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+KIF2B,Q8N4N8,9606.ENSP00000268919,0,centrosome [GO:0005813],cell cycle ,ATPase activity ,DNA Repair,firebrick1,3
+CPSF7,Q8N684,9606.ENSP00000345412,0,mRNA cleavage factor complex ,mRNA 3'-end processing ,mRNA binding ,RNA Metabolism,gold,8
+SIRT6,Q8N6T7,9606.ENSP00000337332,HR,"chromosome, subtelomeric region ",histone deacetylation ,deacetylase activity ,DNA Repair,firebrick1,3
+PAF1,Q8N7H5,9606.ENSP00000221265,HR,Cdc73/Paf1 complex ,histone methylation ,RNA polymerase II core binding ,Chromatin Organization,darkviolet,2
+DDX51,Q8N8A6,9606.ENSP00000380495,DSB,nucleolus ,rRNA processing ,RNA helicase activity ,Ribosome Biosynthesis,lightgreen,7
+SCCPDH,Q8NBX0,9606.ENSP00000355467,HR,nucleus,glycolipid biosynthetic process,oxidoreductase activity,Nuclear Pore,deepskyblue3,4
+SERBP1,Q8NC51,9606.ENSP00000360034,DSB,nucleus ,regulation of apoptotic process ,mRNA binding ,DNA Repair,firebrick1,3
+ZNF280C,Q8ND82,9606.ENSP00000360017,0,nucleus ,"transcription, DNA-templated ",ubiquitin protein ligase binding ,Transcription Regulation,slateblue1,9
+NUP43,Q8NFH3,9606.ENSP00000342262,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+NUP35,Q8NFH5,9606.ENSP00000295119,0,nuclear pore central transport channel,"GO:0006355~regulation of transcription, DNA-templated,GO:0006607~NLS-bearing protein import into nucleus,GO:0006913~nucleocytoplasmic transport,GO:0006999~nuclear pore organization,GO:0015031~protein transport,GO:0051028~mRNA transport,GO:1990830~cellular response to leukemia inhibitory factor,",structural constituent of nuclear pore,Nuclear Pore,deepskyblue3,4
+GPRC5A,Q8NFJ5,9606.ENSP00000014914,0,nucleolus,G-protein coupled receptor signaling pathway,protein kinase activator activity,Cell Cycle regulation,coral1,1
+TOR1AIP2,Q8NFQ8,9606.ENSP00000356584,0,nuclear membrane,positive regulation of ATPase activity,ATPase activator activity,Nuclear Pore,deepskyblue3,4
+THOC2,Q8NI27,9606.ENSP00000245838,0,transcription export complex ,RNA processing ,mRNA binding ,Nuclear Pore,deepskyblue3,4
+WDR36,Q8NI36,9606.ENSP00000423067,0,Pwp2p-containing subcomplex of 90S preribosome ,rRNA processing ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+NPLOC4,Q8TAT6,9606.ENSP00000331487,MMR,VCP-NPL4-UFD1 AAA ATPase complex,ubiquitin-dependent protein catabolic process,ubiquitin binding,UPR,maroon,10
+GDAP1,Q8TB36,9606.ENSP00000220822,0,nucleus,glutathione metabolic process,protein binding,Cell Cycle regulation,coral1,1
+PNPT1,Q8TCS8,9606.ENSP00000400646,MMR,nucleus ,regulation of cellular senescence ,miRNA binding ,Cell Cycle regulation,coral1,1
+DDX54,Q8TDD1,9606.ENSP00000323858,DSB,nucleoplasm ,rRNA processing ,transcription corepressor activity ,Transcription Regulation,slateblue1,9
+BRIX1,Q8TDN6,9606.ENSP00000338862,DSB,chromosome ,rRNA processing ,rRNA binding ,Ribosome Biosynthesis,lightgreen,7
+UTP15,Q8TED0,9606.ENSP00000296792,0, nucleolus [GO:0005730],rRNA processing ,rRNA binding ,Ribosome Biosynthesis,lightgreen,7
+NUP210,Q8TEM1,9606.ENSP00000254508,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+USP33,Q8TEY7,9606.ENSP00000359829,0,nucleoplasm,protein deubiquitination,thiol-dependent ubiquitin-specific protease activity,Cell Cycle regulation,coral1,1
+PTPMT1,Q8WUK0,9606.ENSP00000325958,0,nucleus,dephosphorylation,phosphoprotein phosphatase activity,Cell Cycle regulation,coral1,1
+NUP133,Q8WUM0,9606.ENSP00000261396,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+LEO1,Q8WVC0,9606.ENSP00000299601,0,Cdc73/Paf1 complex ,histone H2B ubiquitination ,transcription cofactor activity ,Chromatin Organization,darkviolet,2
+TFB1M,Q8WVM0,9606.ENSP00000356134,0,mitochondrial nucleoid,rRNA methylation,"rRNA (adenine-N6,N6-)-dimethyltransferase activity",RNA Metabolism,gold,8
+LMO7,Q8WWI1,9606.ENSP00000366757,NER,ubiquitin ligase complex ,positive regulation of transcription from RNA polymerase II promoter ,ubiquitin-protein transferase activity ,Transcription Regulation,slateblue1,9
+PRPF31,Q8WWY3,9606.ENSP00000324122,HR,MLL1 complex ,histone H3-K4 methylation ,RNA binding ,Chromatin Organization,darkviolet,8
+GATAD2B,Q8WXI9,9606.ENSP00000357644,0,NuRD complex ,ATP-dependent chromatin remodeling ,nucleosomal DNA binding ,Chromatin Organization,darkviolet,2
+AHCTF1,Q8WYP5,9606.ENSP00000355465,0,nuclear pore ,nucleocytoplasmic transport ,DNA binding ,Cell Cycle regulation,coral1,1
+TTN,Q8WZ42,9606.ENSP00000467141,0,condensed nuclear chromosome ,"transcription, DNA-templated ",protein kinase binding ,Cell Cycle regulation,coral1,1
+DDX1,Q92499,9606.ENSP00000370745,0,ribonucleoprotein complex ,double-strand break repair ,nuclease activity ,DNA Repair,firebrick1,3
+MRPS27,Q92552,9606.ENSP00000426941,0,nucleolus ,ribosome biogenesis ,rRNA binding ,Ribosome Biosynthesis,lightgreen,7
+GCN1L1,Q92616,9606.ENSP00000300648,0,ribosome,ribosome biogenesis ,protein kinase binding ,Chromatin Organization,darkviolet,2
+NUP205,Q92621,9606.ENSP00000285968,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+DDX17,Q92841,9606.ENSP00000380033,0,ribonucleoprotein complex ,RNA processing ,transcription coactivator activity ,Transcription Regulation,slateblue1,9
+CELF1,Q92879,9606.ENSP00000436864,MMR,ribonucleoprotein complex ,"transcription, DNA-templated ",mRNA binding ,Cell Cycle regulation,coral1,1
+UFD1,Q92890,9606.ENSP00000263202,MMR,UFD1-NPL4 complex,ubiquitin-dependent protein catabolic process,polyubiquitin binding,UPR,maroon,10
+UPF1,Q92900,9606.ENSP00000470142,0," chromosome, telomeric region [GO:0000781]",RNA processing ,RNA helicase activity ,DNA Repair,firebrick1,3
+SMARCC1,Q92922,9606.ENSP00000254480,DSB,SWI/SNF complex,chromatin remodeling,chromatin binding,Chromatin Organization,darkviolet,2
+KHSRP,Q92945,9606.ENSP00000381216,0,nucleoplasm ,RNA processing ,mRNA binding ,Transcription Regulation,slateblue1,9
+EMG1,Q92979,9606.ENSP00000470560,0,small-subunit processome ,rRNA processing ,rRNA binding ,Ribosome Biosynthesis,lightgreen,7
+HIST1H2AC,Q93077,9606.ENSP00000367022,0,nucleosome ,chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+HIST1H2BH,Q93079,9606.ENSP00000479169,DSB,nucleosome ,chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+UTP4,Q969X6,9606.ENSP00000327179,0, t-UTP complex [GO:0034455],rRNA processing ,rRNA binding ,Ribosome Biosynthesis,lightgreen,7
+TBRG4,Q969Z0,9606.ENSP00000258770,0,mitochondrial matrix [GO:0005759],cell cycle ,RNA binding ,Cell Cycle regulation,coral1,1
+FUBP1,Q96AE4,9606.ENSP00000359804,HR,nucleoplasm ,"transcription, DNA-templated ",single-stranded DNA binding ,Transcription Regulation,slateblue1,9
+EXOSC8,Q96B26,9606.ENSP00000374354,0,nuclear exosome ,rRNA catabolic process,mRNA 3'-UTR AU-rich region binding,RNA Metabolism,gold,8
+SLC22A18,Q96BI1,9606.ENSP00000369948,0,nuclear envelope,transport,transmembrane transporter activity,Nuclear Pore,deepskyblue3,4
+FAF2,Q96CS3,9606.ENSP00000261942,0,endoplasmic reticulum,ubiquitin-dependent ERAD pathway,ubiquitin binding,UPR,maroon,10
+SNRNP40,Q96DI7,9606.ENSP00000263694,HR,catalytic step 2 spliceosome ,"mRNA splicing, via spliceosome ",RNA binding ,RNA Metabolism,gold,8
+SEH1L,Q96EE3,9606.ENSP00000382779,DSB,Seh1-associated complex ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+DAZAP1,Q96EP5,9606.ENSP00000233078,0,ribonucleoprotein complex ,"mRNA splicing, via spliceosome ",mRNA binding ,RNA Metabolism,gold,8
+PTCD3,Q96EY7,9606.ENSP00000254630,0,nucleoplasm,regulation of translation,rRNA binding,Ribosome Biosynthesis,lightgreen,7
+CERS2,Q96G23,9606.ENSP00000271688,0,nucleus,ceramide biosynthetic process,DNA binding,Transcription Regulation,slateblue1,9
+SMARCD1,Q96GM5,9606.ENSP00000378414,DSB,SWI/SNF comple,nucleosome disassembly,chromatin binding,Chromatin Organization,darkviolet,2
+DDX27,Q96GQ7,9606.ENSP00000483495,0,nucleolus ,rRNA processing ,RNA helicase activity ,Ribosome Biosynthesis,lightgreen,7
+PGAM5,Q96HS1,9606.ENSP00000438465,0,integral component of membrane ,threonine dephosphorylation ,serine/threonine phosphatase activity ,Cell Cycle regulation,coral1,1
+DDRGK1,Q96HY6,9606.ENSP00000346483,0,nucleolus,protein ufmylation,ubiquitin-like protein ligase binding,Chromatin Organization,darkviolet,2
+FUBP3,Q96I24,9606.ENSP00000318177,0,nucleus ,"transcription, DNA-templated ",single-stranded DNA binding ,Transcription Regulation,slateblue1,9
+RCC1L,Q96I51,9606.ENSP00000480364,0,mitochondrial membrane,mitochondrial fusion,rRNA binding,Ribosome Biosynthesis,lightgreen,7
+THOC3,Q96J01,9606.ENSP00000265097,0,THO complex part of transcription export complex,RNA splicing,RNA binding,RNA Metabolism,gold,8
+CDK5RAP3,Q96JB5,9606.ENSP00000438886,DSB,nucleus,positive regulation of protein ubiquitinatio,ubiquitin-like protein ligase bindin,Cell Cycle regulation,coral1,1
+NSUN5,Q96P11,9606.ENSP00000309126,NER,nucleolus ,RNA methylation ,RNA binding ,Chromatin Organization,darkviolet,2
+RBM14,Q96PK6,9606.ENSP00000311747,0,transcription regulator complex ,histone deacetylation ,mRNA binding ,Chromatin Organization,darkviolet,2
+PUS7,Q96PZ0,9606.ENSP00000348722,0,nucleus ,RNA splicing ,RNA binding ,DNA Repair,firebrick1,3
+PPP1R10,Q96QC0,9606.ENSP00000365694,0,PTW/PP1 phosphatase complex ,cell cycle ,protein phosphatase 1 binding ,Cell Cycle regulation,coral1,1
+FYTTD1,Q96QD9,9606.ENSP00000241502,0,nuclear speck,mRNA export from nucleus,mRNA binding,Nuclear Pore,deepskyblue3,4
+TWNK,Q96RR1,9606.ENSP00000309595,0,mitochondrial nucleoid,DNA unwinding involved in DNA replication,DNA helicase activity,Cell Cycle regulation,coral1,1
+SRPK1,Q96SB4,9606.ENSP00000362931,0,chromatin,protein phosphorylation,protein kinase activity,RNA Metabolism,gold,8
+IWS1,Q96ST2,9606.ENSP00000295321,0,nucleus,chromatin remodeling,protein binding,Chromatin Organization,darkviolet,2
+RBM15,Q96T37,9606.ENSP00000358799,HR,RNA N6-methyladenosine methyltransferase complex ,RNA methylation ,mRNA binding ,Chromatin Organization,darkviolet,2
+PNKP,Q96T60,9606.ENSP00000323511,NHEJ,site of double-strand break ,double-strand break repair ,damaged DNA binding ,DNA Repair,firebrick1,3
+YME1L1,Q96TA2,9606.ENSP00000318480,0,nuclear body,misfolded or incompletely synthesized protein catabolic process,metalloendopeptidase activity,UPR,maroon,10
+CDC5L,Q99459,9606.ENSP00000360532,DSB,spliceosomal complex ,"mRNA splicing, via spliceosome ",protein phosphatase 1 binding ,DNA Repair,firebrick1,3
+PSMD1,Q99460,9606.ENSP00000309474,NHEJ,proteasome complex ,proteasomal protein catabolic process ,ubiquitin protein ligase binding ,Proteasome,grey,6
+NUP88,Q99567,9606.ENSP00000458954,0,nuclear pore ,nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+POP1,Q99575,9606.ENSP00000385787,0,nucleolar ribonuclease P complex,tRNA catabolic process,ribonuclease P activity,RNA Metabolism,gold,8
+EIF3C,Q99613,9606.ENSP00000332604,0, eukaryotic translation initiation factor 3 complex [GO:0005852],translational initiation,ribosome binding ,Ribosome Biosynthesis,lightgreen,7
+PHB2,Q99623,9606.ENSP00000441875,DSB,histone deacetylase complex ,histone deacetylation ,histone deacetylase binding ,Cell Cycle regulation,coral1,1
+HSD17B10,Q99714,9606.ENSP00000168216,ForkStall,tRNA methyltransferase complex ,RNA processing ,RNA binding ,Chromatin Organization,darkviolet,2
+HNRNPAB,Q99729,9606.ENSP00000425031,0,RNA polymerase II transcription regulator complex ,"transcription, DNA-templated ",mRNA binding ,Transcription Regulation,slateblue1,9
+CCT7,Q99832,9606.ENSP00000258091,0, chaperonin-containing T-complex [GO:0005832],response to unfolded protein ,unfolded protein binding ,DNA Repair,firebrick1,3
+EBNA1BP2,Q99848,9606.ENSP00000407323,0, nucleolus [GO:0005730],RNA processing ,RNA binding ,p53 Pathway,tomato,5
+H2BC15,Q99877,9606.ENSP00000483903,DSB,nucleosome,nucleosome assembly,structural constituent of chromatin,Chromatin Organization,darkviolet,2
+HIST1H2AJ,Q99878,9606.ENSP00000328484,0,nucleosome ,chromatin organization ,structural constituent of chromatin ,Chromatin Organization,darkviolet,2
+DDX50,Q9BQ39,9606.ENSP00000362687,0,nucleolus ,RNA processing ,RNA helicase activity ,DNA Repair,firebrick1,3
+GRWD1,Q9BQ67,9606.ENSP00000253237,0,chromosome [GO:0005694],chromatin remodeling ,chromatin binding ,RNA Metabolism,gold,8
+MACROD1,Q9BQ69,9606.ENSP00000255681,0,nucleoplasm ,DNA repair ,deacetylase activity ,DNA Repair,firebrick1,3
+ECSIT,Q9BQ95,9606.ENSP00000270517,0,nucleus,regulation of protein complex stability,protein binding,UPR,maroon,10
+TUBA1C,Q9BQE3,9606.ENSP00000301072,0,nucleus ,microtubule cytoskeleton organization ,methylated histone binding ,Cell Cycle regulation,coral1,1
+MYBBP1A,Q9BQG0,9606.ENSP00000370968,DSB,B-WICH complex ,chromatin remodeling ,transcription corepressor activity ,Cell Cycle regulation,coral1,1
+MGME1,Q9BQP7,9606.ENSP00000366939,SSB,mitochondrion,mitochondrial DNA repair,single-stranded DNA exodeoxyribonuclease activity,DNA Repair,firebrick1,3
+PELO,Q9BRX2,9606.ENSP00000274311,DSB,nucleus ,cell cycle ,endonuclease activity ,Cell Cycle regulation,coral1,1
+TMEM43,Q9BTV4,9606.ENSP00000303992,HR,nuclear envelope,nuclear membrane organization,protein binding,Nuclear Pore,deepskyblue3,4
+NDC1,Q9BTX1,9606.ENSP00000360483,0,nuclear pore,nucleocytoplasmic transport,structural constituent of nuclear pore,Nuclear Pore,deepskyblue3,4
+HNRNPUL1,Q9BUJ2,9606.ENSP00000375863,0,nucleoplasm ,RNA processing ,RNA binding ,RNA Metabolism,gold,8
+HTATIP2,Q9BUP3,9606.ENSP00000392985,0,nuclear envelope ,"transcription, DNA-templated ",transcription coactivator activity ,Transcription Regulation,slateblue1,9
+WDR18,Q9BV38,9606.ENSP00000476117,0,Rix1 complex ,rRNA processing ,rRNA binding ,Ribosome Biosynthesis,lightgreen,7
+UTP14A,Q9BVJ6,9606.ENSP00000377944,0,small-subunit processome,rRNA processing,RNA binding,RNA Metabolism,gold,8
+GNL3,Q9BVP2,9606.ENSP00000395772,DSB,chromosome ,telomere maintenance via telomerase ,mRNA binding ,Transcription Regulation,slateblue1,9
+NUP85,Q9BW27,9606.ENSP00000245544,0, nuclear pore [GO:0005643],nucleocytoplasmic transport ,structural constituent of nuclear pore ,Nuclear Pore,deepskyblue3,4
+TARS2,Q9BW92,9606.ENSP00000358060,0,mitochondrial matrix,threonyl-tRNA aminoacylation,threonine-tRNA ligase activity,RNA Metabolism,gold,8
+RBM4,Q9BWF3,9606.ENSP00000386894,0,nuclear speck,"mRNA splicing, via spliceosome",RNA binding,RNA Metabolism,gold,8
+EIF2A,Q9BY44,9606.ENSP00000417229,0, eukaryotic translation initiation factor 2 complex [GO:0005850],translational initiation,ribosome binding ,Ribosome Biosynthesis,lightgreen,7
+MRPL1,Q9BYD6,9606.ENSP00000315017,0, mitochondrial large ribosomal subunit [GO:0005762],ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+NIFK,Q9BYG3,9606.ENSP00000285814,0,condensed nuclear chromosome ,rRNA transcription ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+GTPBP4,Q9BZE4,9606.ENSP00000354040,DSB,nuclear membrane ,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) ",RNA binding ,Chromatin Organization,darkviolet,2
+RAB34,Q9BZG1,9606.ENSP00000413156,0,actin cytoskeleton,intracellular protein transport,GTPase activity,Cell Cycle regulation,coral1,1
+WDR12,Q9GZL7,9606.ENSP00000261015,DSB,PeBoW complex ,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) ",ribonucleoprotein complex binding ,Cell Cycle regulation,coral1,1
+DDX24,Q9GZR7,9606.ENSP00000481495,DSB,nucleolus ,RNA processing ,RNA helicase activity ,RNA Metabolism,gold,8
+POLR1E,Q9GZS1,9606.ENSP00000367029,HR,fibrillar center,"transcription, DNA-templated",RNA polymerase I transcription factor binding,Transcription Regulation,slateblue1,9
+SLIRP,Q9GZT3,9606.ENSP00000450909,0,ribonucleoprotein complex ,RNA processing ,mRNA binding ,Cell Cycle regulation,coral1,1
+LSG1,Q9H089,9606.ENSP00000265245,DSB,nuclear body ,nucleocytoplasmic transport ,GTPase activity ,Ribosome Biosynthesis,lightgreen,7
+NAT10,Q9H0A0,9606.ENSP00000257829,0, telomerase holoenzyme complex [GO:0005697],telomere maintenance via telomerase ,telomerase RNA binding ,Chromatin Organization,darkviolet,2
+XRN2,Q9H0D6,9606.ENSP00000366396,0,nucleoplasm ,"transcription, DNA-templated ",nuclease activity ,Ribosome Biosynthesis,lightgreen,7
+CSTF2T,Q9H0L4,9606.ENSP00000332444,0,mRNA cleavage and polyadenylation specificity factor complex,mRNA 3'-end processing,RNA binding,RNA Metabolism,gold,8
+RAB6C,Q9H0N0,9606.ENSP00000387307,0,nucleus,mitotic cell cycle,GTPase activity,Cell Cycle regulation,coral1,1
+DDX47,Q9H0S4,9606.ENSP00000350698,DSB,nucleolus ,rRNA processing ,RNA helicase activity ,Ribosome Biosynthesis,lightgreen,7
+ADNP,Q9H2P0,9606.ENSP00000379346,0,RNA polymerase II transcription regulator complex ,"transcription, DNA-templated ",chromatin binding ,Chromatin Organization,darkviolet,2
+MRPL46,Q9H2W6,9606.ENSP00000312311,0,nucleoplasm ,ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+PNN,Q9H307,9606.ENSP00000216832,0,nuclear speck ,"mRNA splicing, via spliceosome ",DNA binding ,Transcription Regulation,slateblue1,9
+TMX1,Q9H3N1,9606.ENSP00000393316,0,integral component of membrane,response to endoplasmic reticulum stress,disulfide oxidoreductase activity,UPR,maroon,10
+HEATR1,Q9H583,9606.ENSP00000355541,DSB,nucleolus ,rRNA processing ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+TFB2M,Q9H5Q4,9606.ENSP00000355471,0,mitochondrial matrix ,rRNA methylation ,transcription cofactor activity ,Chromatin Organization,darkviolet,2
+DHX33,Q9H6R0,9606.ENSP00000225296,0,nucleolus,ositive regulation of transcription from RNA polymerase I promote,helicase activity,Ribosome Biosynthesis,lightgreen,7
+NOL6,Q9H6R4,9606.ENSP00000297990,0,CURI complex ,rRNA processing ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+RPF2,Q9H7B2,9606.ENSP00000402338,DSB,nucleolus ,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) ",rRNA binding ,p53 Pathway,tomato,5
+PTGES2,Q9H7Z7,9606.ENSP00000345341,0,nucleus ,"positive regulation of transcription, DNA-templated ",DNA binding ,Transcription Regulation,slateblue1,9
+NOL11,Q9H8H0,9606.ENSP00000253247,0,nucleolus ,maturation of SSU-rRNA ,RNA binding ,Transcription Regulation,slateblue1,9
+MED20,Q9H944,9606.ENSP00000265350,0,nucleus,"transcription, DNA-templated",transcription coactivator activity,Transcription Regulation,slateblue1,9
+RPF1,Q9H9Y2,9606.ENSP00000359688,0,"preribosome, large subunit precursor ",rRNA processing ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+CACYBP,Q9HB71,9606.ENSP00000356652,0, SCF ubiquitin ligase complex [GO:0019005],cellular response to leukemia inhibitory factor,ubiquitin binding ,Cell Cycle regulation,coral1,1
+XAB2,Q9HCS7,9606.ENSP00000351137,HR,Prp19 complex,"mRNA splicing, via spliceosome",protein binding,RNA Metabolism,gold,8
+EXOSC4,Q9NPD3,9606.ENSP00000315476,0, exosome (RNase complex) [GO:0000178],RNA processing ,3'-5'-exoribonuclease activity ,RNA Metabolism,gold,8
+PPAN,Q9NQ55,9606.ENSP00000253107,0,nucleolus,rRNA processing,"rRNA binding,",RNA Metabolism,gold,8
+UTP3,Q9NQZ2,9606.ENSP00000254803,0,small-subunit processome ,chromatin organization ,RNA binding ,Chromatin Organization,darkviolet,2
+DDX21,Q9NR30,9606.ENSP00000346120,DSB,B-WICH complex ,chromatin organization ,RNA helicase activity ,Ribosome Biosynthesis,lightgreen,7
+CHRAC1,Q9NRG0,9606.ENSP00000220913,0,CHRAC ,chromatin organization ,DNA binding ,Chromatin Organization,darkviolet,2
+AAAS,Q9NRG9,9606.ENSP00000209873,0,nuclear pore,mitotic spindle assembly,protein binding,Nuclear Pore,deepskyblue3,4
+FARSB,Q9NSD9,9606.ENSP00000281828,HR,phenylalanine-tRNA ligase complex ,ribosome biogenesis ,RNA binding ,RNA Metabolism,gold,8
+DDX19A,Q9NUU7,9606.ENSP00000306117,0,nucleoplasm,poly(A)+ mRNA export from nucleus,RNA helicase activity,RNA Metabolism,gold,8
+DCAF13,Q9NV06,9606.ENSP00000297579,0,Cul4-RING E3 ubiquitin ligase complex,rRNA processing,"substrate recognition for ubiquitination,",RNA Metabolism,gold,8
+EXD2,Q9NVH0,9606.ENSP00000313140,HR,site of DNA damage,double-strand break repair via homologous recombination, exonuclease activity,DNA Repair,firebrick1,3
+DNAJC11,Q9NVH1,9606.ENSP00000366800,0,nuclear speck,inner mitochondrial membrane organization,protein binding,UPR,maroon,10
+ATAD3A,Q9NVI7,9606.ENSP00000368030,0,mitochondrial nucleoid,negative regulation of apoptotic process,nucleotide binding,Cell Cycle regulation,coral1,1
+GNL3L,Q9NVN8,9606.ENSP00000338573,DSB,telomerase holoenzyme complex ,negative regulation of telomere maintenance via telomerase ,RNA binding ,Chromatin Organization,darkviolet,2
+DDX18,Q9NVP1,9606.ENSP00000263239,0,nucleolus ,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) ",RNA helicase activity ,Ribosome Biosynthesis,lightgreen,7
+NLE1,Q9NVX2,9606.ENSP00000413572,DSB,nucleolus ,positive regulation of canonical Wnt signaling pathway ,rRNA binding ,Cell Cycle regulation,coral1,1
+SMPD4,Q9NXE4,9606.ENSP00000386531,0,nuclear envelope,glycerophospholipid catabolic process,sphingomyelin phosphodiesterase activity,UPR,maroon,10
+TEX10,Q9NXF1,9606.ENSP00000364037,DSB,MLL1 complex ,histone methylation ,methylated histone binding ,DNA Repair,firebrick1,3
+CDKN2AIP,Q9NXV6,9606.ENSP00000427108,ForkStall,nucleus,regulation of transcription from RNA polymerase II promoter,transcriptional activator activity,Transcription Regulation,slateblue1,9
+AATF,Q9NY61,9606.ENSP00000477848,DSB,transcription regulator complex ,histone deacetylation ,protein kinase binding ,DNA Repair,firebrick1,3
+DDX56,Q9NY93,9606.ENSP00000258772,DSB,nucleolus ,rRNA processing ,RNA helicase activity ,Cell Cycle regulation,coral1,1
+BCLAF1,Q9NYF8,9606.ENSP00000435210,0,mediator complex ,"transcription, DNA-templated ",transcription cofactor activity ,DNA Repair,firebrick1,3
+FASTKD2,Q9NYY8,9606.ENSP00000236980,0,mitochondrial matrix [GO:0005759],RNA processing ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+IGF2BP1,Q9NZI8,9606.ENSP00000290341,0,CRD-mediated mRNA stability complex,CRD-mediated mRNA stabilization,mRNA 3'-UTR binding,RNA Metabolism,gold,8
+MYOF,Q9NZM1,9606.ENSP00000352208,0,nuclear envelope ,plasma membrane repair ,phospholipid binding ,Transcription Regulation,slateblue1,9
+NOP53,Q9NZM5,9606.ENSP00000246802,DSB,nucleolus ,regulation of signal transduction by p53 class mediator ,p53 binding ,DNA Repair,firebrick1,3
+CALML5,Q9NZT1,9606.ENSP00000369689,0,ficolin-1-rich granule lumen ,signal transduction ,calcium ion binding ,Cell Cycle regulation,coral1,1
+NDUFA13,Q9P0J0,9606.ENSP00000423673,0,nucleoplasm ,"transcription, DNA-templated ",NAD binding ,Transcription Regulation,slateblue1,9
+CCDC88C,Q9P219,9606.ENSP00000374507,NER,centrosome ,Wnt signaling pathway ,G-protein alpha-subunit binding ,Cell Cycle regulation,coral1,1
+RCC2,Q9P258,9606.ENSP00000364585,0,"chromosome, centromeric core domain ",cell cycle ,protein kinase binding ,Cell Cycle regulation,coral1,1
+DHCR7,Q9UBM7,9606.ENSP00000347717,0,endoplasmic reticulum,cholesterol biosynthetic process,NADP binding,Cell Cycle regulation,coral1,1
+NXF1,Q9UBU9,9606.ENSP00000436679,0,nuclear pore ,nucleocytoplasmic transport ,mRNA binding ,Nuclear Pore,deepskyblue3,4
+SLC25A10,Q9UBX3,9606.ENSP00000446242,0,nucleus,succinate transmembrane transport,succinate transmembrane transporter activity,Chromatin Organization,darkviolet,2
+LRWD1,Q9UFC0,9606.ENSP00000292616,MMR,"chromosome, telomeric region ",chromatin organization ,methylated histone binding ,Chromatin Organization,darkviolet,2
+SEC63,Q9UGP8,9606.ENSP00000357998,0,integral component of membrane,posttranslational protein targeting to membrane,"RNA binding,",UPR,maroon,10
+SEPT9,Q9UHD8,9606.ENSP00000391249,0,cell division site,cytoskeleton-dependent cytokinesis,GTPase activity,Cell Cycle regulation,coral1,1
+PUF60,Q9UHX1,9606.ENSP00000434359,NER,nucleoplasm ,"mRNA splicing, via spliceosome ",DNA binding ,RNA Metabolism,gold,8
+BAZ1B,Q9UIG0,9606.ENSP00000342434,DSB,WICH complex,histone phosphorylation,protein tyrosine kinase activity,Chromatin Organization,darkviolet,2
+ANAPC7,Q9UJX3,9606.ENSP00000394394,0,anaphase-promoting complex,regulation of mitotic cell cycle,protein phosphatase binding,Cell Cycle regulation,coral1,1
+CPSF3,Q9UKF6,9606.ENSP00000238112,0,nucleoplasm ,mRNA polyadenylation ,5'-3' exonuclease activity ,DNA Repair,firebrick1,3
+RALY,Q9UKM9,9606.ENSP00000246194,0,spliceosomal complex ,"mRNA splicing, via spliceosome ",transcription cofactor activity ,Transcription Regulation,slateblue1,9
+ACIN1,Q9UKV3,9606.ENSP00000262710,HR,ASAP complex ,RNA splicing ,ATPase activity ,RNA Metabolism,gold,8
+YEATS2,Q9ULM3,9606.ENSP00000306983,0,NuA4 histone acetyltransferase complex ,chromatin remodeling ,TBP-class protein binding ,Chromatin Organization,darkviolet,2
+CORO1C,Q9ULV4,9606.ENSP00000394496,0,actin cytoskeleton [GO:0015629],actin filament capping ,actin filament organization ,Chromatin Organization,darkviolet,2
+TPX2,Q9ULW0,9606.ENSP00000300403,RLOOPS,nuclear microtubule ,cell division ,protein kinase binding ,Chromatin Organization,darkviolet,2
+PRPF19,Q9UMS4,9606.ENSP00000227524,0,spliceosomal complex ,"mRNA splicing, via spliceosome ",mRNA binding ,DNA Repair,firebrick1,3
+G3BP2,Q9UN86,9606.ENSP00000352738,0,ribonucleoprotein complex ,mRNA transport ,mRNA binding ,Transcription Regulation,slateblue1,9
+DIMT1,Q9UNQ2,9606.ENSP00000199320,DSB,nucleolus ,rRNA methylation ,RNA binding ,Chromatin Organization,darkviolet,2
+SRRM2,Q9UQ35,9606.ENSP00000301740,HR,spliceosomal complex ,"mRNA splicing, via spliceosome ",mRNA binding ,RNA Metabolism,gold,8
+PA2G4,Q9UQ80,9606.ENSP00000302886,0,nucleolus ,rRNA processing ,ubiquitin protein ligase binding ,Transcription Regulation,slateblue1,9
+SMC3,Q9UQE7,9606.ENSP00000354720,0,cohesin complex ,DNA repair ,ATPase activity ,DNA Repair,firebrick1,3
+SCML2,Q9UQR0,9606.ENSP00000251900,BER,PcG protein complex ,"negative regulation of transcription, DNA-templated ",chromatin binding ,Transcription Regulation,slateblue1,9
+NIP7,Q9Y221,9606.ENSP00000254940,0, nucleolus [GO:0005730],rRNA processing ,rRNA binding ,RNA Metabolism,gold,8
+RUVBL2,Q9Y230,9606.ENSP00000473172,HR,MLL1 complex ,chromatin remodeling ,transcription corepressor activity ,DNA Repair,firebrick1,3
+HIGD1A,Q9Y241,9606.ENSP00000398064,0,respirasome ,negative regulation of apoptotic process , respirasome ,Cell Cycle regulation,coral1,1
+EIF3L,Q9Y262,9606.ENSP00000485663,0, eukaryotic 43S preinitiation complex [GO:0016282],translational initiation,ribosome binding ,Ribosome Biosynthesis,lightgreen,7
+RUVBL1,Q9Y265,9606.ENSP00000318297,HR,MLL1 complex ,chromatin remodeling ,transcription coactivator activity ,DNA Repair,firebrick1,3
+DRG1,Q9Y295,9606.ENSP00000329715,0,nucleoplasm ,"transcription, DNA-templated ",transcription factor binding ,DNA Repair,firebrick1,3
+RCL1,Q9Y2P8,9606.ENSP00000371169,0,small-subunit processome,endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript ,endoribonuclease activit,Ribosome Biosynthesis,lightgreen,7
+POLDIP2,Q9Y2S7,9606.ENSP00000475924,MMR,nucleus,error-free translesion synthesis,GO:0003677~,Transcription Regulation,slateblue1,9
+THRAP3,Q9Y2W1,9606.ENSP00000346634,NER,mediator complex ,"transcription, DNA-templated ",transcription coactivator activity ,Transcription Regulation,slateblue1,9
+NOP58,Q9Y2X3,9606.ENSP00000264279,0,box C/D RNP complex ,rRNA processing ,TFIID-class transcription factor binding ,Ribosome Biosynthesis,lightgreen,7
+PPIL1,Q9Y3C6,9606.ENSP00000362803,0,catalytic step 2 spliceosome ,"mRNA splicing, via spliceosome ",mRNA binding ,RNA Metabolism,gold,8
+STRAP,Q9Y3F4,9606.ENSP00000392270,0,SMN-Sm protein complex ,"transcription, DNA-templated ",mRNA binding ,RNA Metabolism,gold,3
+RTCB,Q9Y3I0,9606.ENSP00000216038,DSB,nucleoplasm ,tRNA splicing ,RNA binding ,RNA Metabolism,gold,8
+NOC2L,Q9Y3T9,9606.ENSP00000317992,DSB,Noc1p-Noc2p complex ,"transcription, DNA-templated ",transcription corepressor activity ,Chromatin Organization,darkviolet,2
+RPL36,Q9Y3U8,9606.ENSP00000464342,0, cytosolic large ribosomal subunit [GO:0022625],ribosome biogenesis ,structural constituent of ribosome ,Ribosome Biosynthesis,lightgreen,7
+YTHDF2,Q9Y5A9,9606.ENSP00000362918,MMR,centriolar satellite ,cell cycle ,mRNA binding ,Cell Cycle regulation,coral1,1
+SUPT16H,Q9Y5B9,9606.ENSP00000216297,0,FACT complex ,chromatin organization ,nucleosome binding ,Chromatin Organization,darkviolet,2
+UTP18,Q9Y5J1,9606.ENSP00000225298,HR,small-subunit processome ,rRNA processing ,RNA binding ,Ribosome Biosynthesis,lightgreen,7
+NFS1,Q9Y697,9606.ENSP00000363205,0,nucleus,iron incorporation into metallo-sulfur cluster,iron-sulfur cluster binding,Cell Cycle regulation,coral1,1
+MTCH2,Q9Y6C9,9606.ENSP00000303222,0,nucleus,positive regulation of apoptotic process,membrane insertase activity,Cell Cycle regulation,coral1,1
+TEX264,Q9Y6I9,9606.ENSP00000396628,ForkStall,autophagosome membrane,reticulophagy,signaling receptor activity,UPR,maroon,10
