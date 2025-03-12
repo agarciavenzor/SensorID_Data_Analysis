@@ -1,0 +1,12 @@
+### Dynamic clustering by Fuzzy C Means Analysis
+The files in this folder contain the R-script and the files required to cluster the DSB-sensor interactors into dynamic Fuzzy C means clusters using the previously calculated Fold Changes as a normalized measurement of its binding intensities. The protein interactors are clustered depending on their interaction dynamics; however, since Fuzzy C means clustering gives different results on each run, it is possible that the obtained results do not follow the numbering system used in the original paper, but the structure and behaviour of the clusters should be the same. This section of the repository contains the following files:
+**Fuzzy_C_Means_Analysis**
+The section Fuzzy_C_Means_Analysis contains all the R scripts and files to analyze the dynamic clustering by the Fuzzy C means algorithm:
+ - 1. **Fuzzy_C_Means_Analysis**, containes the next files:
+    - + **SensorID_FuzzyCMeans_Analysis.R**: R Script for analyzing the SensorID dynamic clusters using the mFuzz clustering package.
+    - + **Sirt6_Data.csv**: Sirt6ID Fold Change values per time point, Fold Change calculated against the Negative controls.
+    - + **Ku80_Data.csv**: Ku80ID Fold Change values per time point, Fold Change calculated against the Negative controls.
+    - + **Mre11_Data.csv**: Mre11ID Fold Change values per time point, Fold Change calculated against the Negative controls.
+    - + **Mre11ID_RawData.csv**: Mre11ID mass spectrometry Intensity raw data, each sample contains 3 biological replicates.
+    - + **ColAnnoDF.csv**: SensorID dynamic interactomes Sample metadata.
+    - + **Protein_Annotations.csv**: SensorID interactions annotations. Mannually filtered and curated based on Gene Ontology annotations.
