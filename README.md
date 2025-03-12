@@ -24,8 +24,27 @@ Furthermore, the complete database containing all the obtained results and metri
 
 ### Mass Spectrometry Raw Data Analysis by LIMMA multiple T-test.
 The Mass Spectrometry intensity values of the entire SensorID experiment were split into each DSB-Sensor proteins (Ku80, Mre11, and Sirt6) and each file contain the three independent biological replicates of the two negative controls (Cneg_IR5, Cneg_IR24) and the 7 experimental conditions (nonIR5, IR5, IR30, IR2h, IR8h, IR24h, and nonIR24h). The raw data tables were already manually filtered to remove those proteins that were detected by less than 2 peptides.
-The raw data data sets and the R script used to perform the LIMMA multiple T-test analysis against the negative controls are contained in the (place here the folder) section of this repository.
+The raw data and the R script used to perform the LIMMA multiple T-test analysis against the negative controls are contained in the (place here the folder) section of this repository.
+The Mass spectrometry intensity values of the SensorID shNucleolin experiments are contained in a single dataset, and each column is named by the DSB-sensor and the time point. The raw data tables were already manually filtered to remove those proteins that were detected by less than 2 peptides. The raw data and the R script used to perform the LIMMA multiple T-test analysis against the negative controls are contained in the (place here the folder) section of this repository.
 
+**SensorID LIMMA multiple T-Test analysis**
+The section Limma T-Test contains all the R scripts and files to analyze the SensorID experiments' 
+raw data for mass spectrometry. The section is divided into two parts with independent set of files:
+ -1. **SensorID dynamic interactome analysis**, containes the next files:
+  -+ SensorID_Limma_T_Test.R: R Script for analyzing the SensorID dynamic interactomes mass spectrometry raw data.
+  -+ Sirt6ID_RawData.csv: Sirt6ID mass spectrometry Intensity raw data, each sample contains 3 biological replicates.
+  -+ Ku80ID_RawData.csv: Ku80ID mass spectrometry Intensity raw data, each sample contains 3 biological replicates.
+  -+ Mre11ID_RawData.csv: Mre11ID mass spectrometry Intensity raw data, each sample contains 3 biological replicates.
+  -+ Mre11ID_RawData.csv: Mre11ID mass spectrometry Intensity raw data, each sample contains 3 biological replicates.
+  -+ ColAnnoDF.csv: SensorID dynamic interactomes Sample metadata.
+  -+ SensorID_FoldChange_Matrix.csv: SensorID dynamic interactome Fold Change values versus the negative controls. Mannually filtered.
+ -2. **SensorID shNucleolin Experiments Interactome analysis**, contains the next files:
+  -+ SensorID_shNclExp_Limma_T_Test.R: R Script for analyzing the raw data of SensorID shNucleolin Experiments Interactome mass spectrometry.
+  -+ SensorID_shNclExp_RawData_All.csv: SensorID shNucleolin Experiments Interactome mass spectrometry Intensity raw data, each sample contains 3 biological replicates..
+  -+ SensorID_shNclList_Diff_Prots.csv: List of the Differentially bound proteins in the SensorID shNcl experiments and their annotations. Mannually curated.
+  -+ ColAnnoDF_shNclExp.csv: SensorID shNcl experiments Sample metadata.
+
+ 
 ###
 
 
