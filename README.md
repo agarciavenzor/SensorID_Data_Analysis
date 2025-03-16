@@ -77,6 +77,7 @@ The section shNcl_Network_Analysis contains all the R scripts and files for the 
  - 1. **shNcl_Network_Analysis**, containes the next files:
     - + **shNcl_Network_Analysis.R**: R Script for analyzing the SensorID shNcl experiment interactomes using the functions of the igraph R package.
     - + **SensorID_shNclExp_Matrix.csv**: Matrix containing the metadata of the SensorID shNcl and SensorID shScr interactomes. It contains the name and annotation of each interaction, as well as its Fold Change versus the negative controls at each studied time point.
+    - + **SensorID_shNclExp_CompleteNetwork_EdgeList.tsv**: Edge list that includes all the interactions from the SensorID shNcl experiment. It is similar to the Full Nuclear Network (FNN) used in the SensorID dynamic interactome network analysis.
     - + **Sirt6ID_shScrlvsCneg_Network_EdgeList.tsv**: Edge list of the Sirt6ID IR2h treated with the control shRNA (shScr).
     - + **Sirt6ID_shNclvsCneg_Network_EdgeList.tsv**: Edge list of the Sirt6ID IR2h treated with the Nucleolin-targeting shRNA (shNcl).
     - + **Ku80ID_shScrlvsCneg_Network_EdgeList.tsv**: Edge list of the Ku80ID IR2h treated with the control shRNA (shScr).
