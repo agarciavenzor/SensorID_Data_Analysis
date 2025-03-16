@@ -70,16 +70,36 @@ The section SensorID_Network_Analysis contains all the R scripts and files for t
     - + **Mre_"Time.Point"_Edges**: Family of files containing the Edge list of the Mre11ID interactomes at each specific time point.
 
 ### [SensorID shNcl Experiment Network analysis with igraph](./shNcl_Network_Analysis)
-This repository section encompasses the network analysis of the SensorID dynamic interactomes. The network analysis was done using the functions contained in the igraph R package. However, the visualization of the network was performed on Cytoscape due to its multiple layout software and easier mapping of variables in the network graphs. Notably, each network is uploaded as a separate edge list. Each list was retrieved from the String database by quering all the proteins contained in the specific time point interactome and filtering the physical interactions by a threshold of 0.4 confidence. The SensorID matrix file contains the node metadata, including the functional annotations and the fold change at specific time points.
+This repository section encompasses the network analysis of the SensorID IR2h interactomes after the silencing of Nucleolin using a specific shRNA (shNcl). The comparisons are done against the SensorID IR2h interactome treated with a control shRNA (shScr). The network analysis was done using the functions contained in the igraph R package. However, the visualization of the network was performed on Cytoscape due to its multiple layout software and easier mapping of variables in the network graphs. Notably, each network is uploaded as a separate edge list. Each list was retrieved from the String database by quering all the proteins contained in the specific time point interactome and filtering the physical interactions by a threshold of 0.4 confidence. The SensorID shNclExp Matrix file contains the node metadata, including the functional annotations and the fold change versus the negative controls of the experiments. It also contains the statistical test of the shNcl condition versus the shScr condition.
 This section of the repository contains the following files:
-**SensorID_Network_Analysis**
-The section SensorID_Network_Analysis contains all the R scripts and files for the network analysis of the SensorID dynamic interactomes:
- - 1. **SensorID_Network_Analysis**, containes the next files:
-    - + **SensorID_Network_Analysis.R**: R Script for analyzing the SensorID dynamic interactomes using the functions of the igraph R package.
-    - + **SensorID_Matrix.csv**: Matrix containing the metadata of the SensorID interactomes, it contains the name and annotation of each interaction, as well as its Fold Change versus the negative controls at each studied time point.
-    - + **S6_"Time.Point"_Edges.csv**: Family of files containing the Edge list of the Sirt6ID interactomes at each specific time point.
-    - + **Ku_"Time.Point"_Edges**: Family of files containing the Edge list of the Ku80ID interactomes at each specific time point.
-    - + **Mre_"Time.Point"_Edges**: Family of files containing the Edge list of the Mre11ID interactomes at each specific time point.
+**shNcl_Network_Analysis**
+The section shNcl_Network_Analysis contains all the R scripts and files for the network analysis of the SensorID shNcl experiment interactomes:
+ - 1. **shNcl_Network_Analysis**, containes the next files:
+    - + **shNcl_Network_Analysis.R**: R Script for analyzing the SensorID shNcl experiment interactomes using the functions of the igraph R package.
+    - + **SensorID_shNclExp_Matrix.csv**: Matrix containing the metadata of the SensorID shNcl and SensorID shScr interactomes. It contains the name and annotation of each interaction, as well as its Fold Change versus the negative controls at each studied time point.
+    - + **Sirt6ID_shScrlvsCneg_Network_EdgeList.tsv**: Edge list of the Sirt6ID IR2h treated with the control shRNA (shScr).
+    - + **Sirt6ID_shNclvsCneg_Network_EdgeList.tsv**: Edge list of the Sirt6ID IR2h treated with the Nucleolin-targeting shRNA (shNcl).
+    - + **Ku80ID_shScrlvsCneg_Network_EdgeList.tsv**: Edge list of the Ku80ID IR2h treated with the control shRNA (shScr).
+    - + **Ku80ID_shNclvsCneg_Network_EdgeList.tsv**: Edge list of the Ku80ID IR2h treated with the Nucleolin-targeting shRNA (shNcl).
+    - + **Mre11ID_shScrlvsCneg_Network_EsgeList.tsv**: Edge list of the Mre11ID IR2h treated with the control shRNA (shScr).
+    - + **Mre11ID_shNclvsCneg_Network_EdgeList.tsv**: Edge list of the Mre11ID IR2h treated with the Nucleolin-targeting shRNA (shNcl).
+
+### [SensorID dynamic interactome rNetcarto Modularity Analysis](./SensorID_Rnetcarto_Modularity_Analysis)
+This repository section encompasses the network analysis of the SensorID IR2h interactomes after the silencing of Nucleolin using a specific shRNA (shNcl). The comparisons are done against the SensorID IR2h interactome treated with a control shRNA (shScr). The network analysis was done using the functions contained in the igraph R package. However, the visualization of the network was performed on Cytoscape due to its multiple layout software and easier mapping of variables in the network graphs. Notably, each network is uploaded as a separate edge list. Each list was retrieved from the String database by quering all the proteins contained in the specific time point interactome and filtering the physical interactions by a threshold of 0.4 confidence. The SensorID shNclExp Matrix file contains the node metadata, including the functional annotations and the fold change versus the negative controls of the experiments. It also contains the statistical test of the shNcl condition versus the shScr condition.
+This section of the repository contains the following files:
+**shNcl_Network_Analysis**
+The section shNcl_Network_Analysis contains all the R scripts and files for the network analysis of the SensorID shNcl experiment interactomes:
+ - 1. **shNcl_Network_Analysis**, containes the next files:
+    - + **shNcl_Network_Analysis.R**: R Script for analyzing the SensorID shNcl experiment interactomes using the functions of the igraph R package.
+    - + **SensorID_shNclExp_Matrix.csv**: Matrix containing the metadata of the SensorID shNcl and SensorID shScr interactomes. It contains the name and annotation of each interaction, as well as its Fold Change versus the negative controls at each studied time point.
+    - + **Sirt6ID_shScrlvsCneg_Network_EdgeList.tsv**: Edge list of the Sirt6ID IR2h treated with the control shRNA (shScr).
+    - + **Sirt6ID_shNclvsCneg_Network_EdgeList.tsv**: Edge list of the Sirt6ID IR2h treated with the Nucleolin-targeting shRNA (shNcl).
+    - + **Ku80ID_shScrlvsCneg_Network_EdgeList.tsv**: Edge list of the Ku80ID IR2h treated with the control shRNA (shScr).
+    - + **Ku80ID_shNclvsCneg_Network_EdgeList.tsv**: Edge list of the Ku80ID IR2h treated with the Nucleolin-targeting shRNA (shNcl).
+    - + **Mre11ID_shScrlvsCneg_Network_EsgeList.tsv**: Edge list of the Mre11ID IR2h treated with the control shRNA (shScr).
+    - + **Mre11ID_shNclvsCneg_Network_EdgeList.tsv**: Edge list of the Mre11ID IR2h treated with the Nucleolin-targeting shRNA (shNcl).
+
+
 
 
 
