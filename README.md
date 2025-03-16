@@ -57,19 +57,29 @@ The section Fuzzy_C_Means_Analysis contains all the R scripts and files to analy
     - + **ColAnnoDF.csv**: SensorID dynamic interactomes Sample metadata.
     - + **Protein_Annotations.csv**: SensorID interactions annotations. Mannually filtered and curated based on Gene Ontology annotations.
 
-### [Dynamic clustering by Fuzzy C Means Analysis.](./Fuzzy_C_Means_Analysis)
-The files in this folder contain the R-script and the files required to cluster the DSB-sensor interactors into dynamic Fuzzy C means clusters using the previously calculated Fold Changes as a normalized measurement of its binding intensities. The protein interactors are clustered depending on their interaction dynamics; however, since Fuzzy C means clustering gives different results on each run, it is possible that the obtained results do not follow the numbering system used in the original paper, but the structure and behaviour of the clusters should be the same. This section of the repository contains the following files:
-**Fuzzy_C_Means_Analysis**
-The section Fuzzy_C_Means_Analysis contains all the R scripts and files to analyze the dynamic clustering by the Fuzzy C means algorithm:
- - 1. **Fuzzy_C_Means_Analysis**, containes the next files:
-    - + **SensorID_FuzzyCMeans_Analysis.R**: R Script for analyzing the SensorID dynamic clusters using the mFuzz clustering package.
-    - + **Sirt6_Data.csv**: Sirt6ID Fold Change values per time point, Fold Change calculated against the Negative controls.
-    - + **Ku80_Data.csv**: Ku80ID Fold Change values per time point, Fold Change calculated against the Negative controls.
-    - + **Mre11_Data.csv**: Mre11ID Fold Change values per time point, Fold Change calculated against the Negative controls.
-    - + **Mre11ID_RawData.csv**: Mre11ID mass spectrometry Intensity raw data, each sample contains 3 biological replicates.
-    - + **ColAnnoDF.csv**: SensorID dynamic interactomes Sample metadata.
-    - + **Protein_Annotations.csv**: SensorID interactions annotations. Mannually filtered and curated based on Gene Ontology annotations.
+### [SensorID dynamic interactome Network analysis with igraph](./SensorID_Network_Analysis)
+This repository section encompasses the network analysis of the SensorID dynamic interactomes. The network analysis was done using the functions contained in the igraph R package. However, the visualization of the network was performed on Cytoscape due to its multiple layout software and easier mapping of variables in the network graphs. Notably, each network is uploaded as a separate edge list. Each list was retrieved from the String database by quering all the proteins contained in the specific time point interactome and filtering the physical interactions by a threshold of 0.4 confidence. The SensorID matrix file contains the node metadata, including the functional annotations and the fold change at specific time points.
+This section of the repository contains the following files:
+**SensorID_Network_Analysis**
+The section SensorID_Network_Analysis contains all the R scripts and files for the network analysis of the SensorID dynamic interactomes:
+ - 1. **SensorID_Network_Analysis**, containes the next files:
+    - + **SensorID_Network_Analysis.R**: R Script for analyzing the SensorID dynamic interactomes using the functions of the igraph R package.
+    - + **SensorID_Matrix.csv**: Matrix containing the metadata of the SensorID interactomes, it contains the name and annotation of each interaction, as well as its Fold Change versus the negative controls at each studied time point.
+    - + **S6_"Time.Point"_Edges.csv**: Family of files containing the Edge list of the Sirt6ID interactomes at each specific time point.
+    - + **Ku_"Time.Point"_Edges**: Family of files containing the Edge list of the Ku80ID interactomes at each specific time point.
+    - + **Mre_"Time.Point"_Edges**: Family of files containing the Edge list of the Mre11ID interactomes at each specific time point.
 
+### [SensorID shNcl Experiment Network analysis with igraph](./shNcl_Network_Analysis)
+This repository section encompasses the network analysis of the SensorID dynamic interactomes. The network analysis was done using the functions contained in the igraph R package. However, the visualization of the network was performed on Cytoscape due to its multiple layout software and easier mapping of variables in the network graphs. Notably, each network is uploaded as a separate edge list. Each list was retrieved from the String database by quering all the proteins contained in the specific time point interactome and filtering the physical interactions by a threshold of 0.4 confidence. The SensorID matrix file contains the node metadata, including the functional annotations and the fold change at specific time points.
+This section of the repository contains the following files:
+**SensorID_Network_Analysis**
+The section SensorID_Network_Analysis contains all the R scripts and files for the network analysis of the SensorID dynamic interactomes:
+ - 1. **SensorID_Network_Analysis**, containes the next files:
+    - + **SensorID_Network_Analysis.R**: R Script for analyzing the SensorID dynamic interactomes using the functions of the igraph R package.
+    - + **SensorID_Matrix.csv**: Matrix containing the metadata of the SensorID interactomes, it contains the name and annotation of each interaction, as well as its Fold Change versus the negative controls at each studied time point.
+    - + **S6_"Time.Point"_Edges.csv**: Family of files containing the Edge list of the Sirt6ID interactomes at each specific time point.
+    - + **Ku_"Time.Point"_Edges**: Family of files containing the Edge list of the Ku80ID interactomes at each specific time point.
+    - + **Mre_"Time.Point"_Edges**: Family of files containing the Edge list of the Mre11ID interactomes at each specific time point.
 
 
 
