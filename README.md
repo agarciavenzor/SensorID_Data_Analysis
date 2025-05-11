@@ -86,7 +86,8 @@ The section shNcl_Network_Analysis contains all the R scripts and files for the 
     - + **Mre11ID_shNclvsCneg_Network_EdgeList.tsv**: Edge list of the Mre11ID IR2h treated with the Nucleolin-targeting shRNA (shNcl).
 
 ### [SensorID dynamic interactome rNetcarto Modularity Analysis](./SensorID_Rnetcarto_Modularity_Analysis)
-This repository section contains the SensorID networks edgelists, the node data frame, and the R Script required to perform the modularity analysis and node classification using the Rnetcarto algorithm. The results were later manually verified and merged with previous results to generate a comprehensive data frame that contains all the analysis results. The files contained in this folder are:
+This repository section contains the SensorID networks edgelists, the node data frame, and the R Script required to perform the modularity analysis and node classification using the Rnetcarto algorithm. The modularity analysis of the PPI networks was done using the simulated annealing Rnetcarto modularity algorithm, and calculating the connectivity (within-module degree) and the participation coefficient, which are used to further distinguish network structural roles. The connectivity measures the number of connections of a particular node within its module. On the other hand, the participation coefficient depicts the proportions of a particular node's connections with other modules in the network.
+The results were later manually verified and merged with previous results to generate a comprehensive data frame that contains all the analysis results. The files contained in this folder are:
 **SensorID_Rnetcarto_Modularity_Analysis**
 The section SensorID_Rnetcarto_Modularity_Analysis contains all the R scripts and files for the network modularity analysis of the SensorID interactomes:
  - 1. **SensorID_Rnetcarto_Modularity_Analysis**, containes the next files:
@@ -97,21 +98,28 @@ The section SensorID_Rnetcarto_Modularity_Analysis contains all the R scripts an
     - + **Mre_"Time.Point"_Edges.csv**: Edge lists of the Mre11ID networks. Each file contains the edge lists of each time point; the full network refers to the edge list of all the interactors found in the Mre11ID networks.
 
 ### [SensorID shNcl Experiment Rnetcarto modularity analysis](./SensorID_shNcl_Experiment_Rnetcarto_Modularity_Analysis)
-This repository section .
+This repository section is intended to contain the mass spectrometry results, the edge list, and the R script to identify the structural modules of the SensorID protein-protein interacting networks after Nucleolin silencing. The modularity analysis of the PPI networks was done using the simulated annealing Rnetcarto modularity algorithm, and calculating the connectivity (within-module degree) and the participation coefficient, which are used to further distinguish network structural roles.
+The results from the Rnetcarto modularity analysis were verified and manually merged with previous analysis tables to generate a data frame that contains a comprehensive description of each node in the network. 
 This section of the repository contains the following files:
 **SensorID_shNcl_Experiment_Rnetcarto_Modularity_Analysis**
-The section shNcl_Network_Analysis contains all the R scripts and files for the network analysis of the SensorID shNcl experiment interactomes:
- - 1. **sSensorID_shNcl_Experiment_Rnetcarto_Modularity_Analysis**, containes the next files:
-    - + **shNcl_Network_Analysis.R**: R Script for analyzing the SensorID shNcl experiment interactomes using the functions of the igraph R package.
-    - + **SensorID_shNclExp_Matrix.csv**: Matrix containing the metadata of the SensorID shNcl and SensorID shScr interactomes. It contains the name and annotation of each interactor, as well as its Fold Change versus the negative controls.
-    - + **SensorID_shNclExp_CompleteNetwork_EdgeList.tsv**: Edge list that includes all the interactions from the SensorID shNcl experiment. It is similar to the Full Nuclear Network (FNN) used in the SensorID dynamic interactome network analysis.
+The section SensorID_shNcl_Experiment_Rnetcarto_Modularity_Analysis contains the R scripts and files for the network modularity analysis of the SensorID shNcl experiment interactomes:
+ - 1. **SensorID_shNcl_Experiment_Rnetcarto_Modularity_Analysis**, containes the next files:
+    - + **SensorID_shNclExp_rNetcarto_Modularity_Analysis.R**: R Script for analyzing the SensorID shNcl experiment interactomes using the functions of the Rnetcarto and igraph R packages.
+    - + **Sirt6ID_shNclExp_DataFrame.csv**: Matrix containing the metadata of the Sirt6ID shNcl and SensorID shScr interactomes. It contains the name and annotation of each interactor, as well as its Fold Change versus the negative controls.
+    - + **Ku80ID_shNclExp_DataFrame.csv**: Matrix containing the metadata of the Ku80ID shNcl and SensorID shScr interactomes. It contains the name and annotation of each interactor, as well as its Fold Change versus the negative controls.
+    - + **Mre11ID_shNclExp_DataFrame.csv**: Matrix containing the metadata of the Mre11ID shNcl and SensorID shScr interactomes. It contains the name and annotation of each interactor, as well as its Fold Change versus the negative controls.
+    - + **Sirt6ID_shNclExp_FullNetwork_EdgeList.tsv**: Edge list of the Sirt6ID Full network containing all the interactions found in the control shRNA (shScr) and the Nucleolin targeting shRNA (shNcl).
     - + **Sirt6ID_shScrlvsCneg_Network_EdgeList.tsv**: Edge list of the Sirt6ID IR2h treated with the control shRNA (shScr).
     - + **Sirt6ID_shNclvsCneg_Network_EdgeList.tsv**: Edge list of the Sirt6ID IR2h treated with the Nucleolin-targeting shRNA (shNcl).
+    - + **Ku80ID_shNclExp_FullNetwork_EdgeList.tsv**: Edge list of the Sirt6ID Full network containing all the interactions found in the control shRNA (shScr) and the Nucleolin targeting shRNA (shNcl).
     - + **Ku80ID_shScrlvsCneg_Network_EdgeList.tsv**: Edge list of the Ku80ID IR2h treated with the control shRNA (shScr).
     - + **Ku80ID_shNclvsCneg_Network_EdgeList.tsv**: Edge list of the Ku80ID IR2h treated with the Nucleolin-targeting shRNA (shNcl).
+    - + **Mre11ID_shNclExp_FullNetwork_EdgeList.tsv**: Edge list of the Sirt6ID Full network containing all the interactions found in the control shRNA (shScr) and the Nucleolin targeting shRNA (shNcl).
     - + **Mre11ID_shScrlvsCneg_Network_EsgeList.tsv**: Edge list of the Mre11ID IR2h treated with the control shRNA (shScr).
     - + **Mre11ID_shNclvsCneg_Network_EdgeList.tsv**: Edge list of the Mre11ID IR2h treated with the Nucleolin-targeting shRNA (shNcl).
 
+### [Final Notes]
+The files and script published in this repository were used to generate the results published in the scientific article "SPARK: mapping the Sensor Proteome Alliance for Repair Kinetics during double-strand break (DSB) repair", for further clarification or discussion on the analysis published here please refer to Dr. Debra Toiber (<ins>toiber@bgu.ac.il</ins>) from the Ben Gurion University of the Neguev, Israel. 
 
 
 
